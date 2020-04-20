@@ -1,6 +1,6 @@
 # Ryan Hildebrandt
 
-[Homepage](ryancahildebrandt.github.io/homepage/) - [Github](github.com/ryancahildebrandt) - [LinkedIn](linkedin.com/in/rcah) - [ResearchGate](researchgate.net/profile/Ryan\_Hildebrandt)<br>
+[Homepage](https://ryancahildebrandt.github.io/homepage/) - [Github](https://github.com/ryancahildebrandt) - [LinkedIn](https://linkedin.com/in/rcah) - [ResearchGate](https://researchgate.net/profile/Ryan\_Hildebrandt)<br>
 ryancahildebrandt@gmail.com<br>
 Rochester, NY USA<br>
 

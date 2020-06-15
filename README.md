@@ -35,11 +35,11 @@ Rochester, NY USA<br>
 
 ### Programming
 
-> R - Python - SQL - Julia - MATLAB - SAS
+> R - Python - SQL - Julia - MATLAB - SAS - Git - Microsoft VBA
 
 ### Data & Statistics
 
-> RStudio - Spyder - MiniTab - SPSS - Tableau - KNIME - JASP - jamovi - Excel - Google Data Studio - Amazon MTurk - Qualtrics
+> RStudio - Spyder - MiniTab - SPSS - Tableau - KNIME - JASP - jamovi - Excel - Access - Google Data Studio - Amazon MTurk - Qualtrics
 
 ### Research
 
@@ -59,6 +59,7 @@ Rochester, NY USA<br>
 > - Synthesize tax information from company, mortgage client, and public agency databases in order to resolve tax issues
 > - Use knowledge of client and internal company procedures to resolve tax issues in a timely manner
 > - Coordinate with team members and leads to resolve assigned tasks efficiently, while continuing to learn new problem solving procedures daily
+> - Taking advantage of optional company trainings in Excel, Access, SQL database management, and Microsoft VBA
 
 ### RIT & Varsity Tutors - Tutor
 

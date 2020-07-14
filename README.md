@@ -1,3 +1,5 @@
+### Stats/Data/Psych Resume
+
 # Ryan Hildebrandt
 
 [Homepage](https://github.com/ryancahildebrandt) - [LinkedIn](https://linkedin.com/in/rcah) - [ResearchGate](https://researchgate.net/profile/Ryan\_Hildebrandt)<br>
@@ -17,11 +19,6 @@ Rochester, NY USA<br>
 
 > *August 2013 - May 2017*<br>
 > *BA Psychology & Japanese*<br>
-
-### Kyoto Japanese Language School
-
-> *August 2014 - December 2014*<br>
-> *Semester-long Japanese Language Study*<br>
 
 ### Supplemental Coursework
 
@@ -44,10 +41,6 @@ Rochester, NY USA<br>
 ### Research
 
 > Experimental design - Survey design - Data collection - Literature review - Data analysis - Data visualization - Research presentation - Human subjects research - IRB compliance - Scientific writing - Academic writing
-
-### Language
-
-> Advanced Japanese - Language teaching - Translation - Linguistic theory 
 
 ## Work Experience
 
@@ -76,14 +69,6 @@ Rochester, NY USA<br>
 > - Oversee several psychology research studies from literature review through data collection, manipulation, analysis, and presentation
 > - Utilize software such as R, Python, SPSS, Tableau, and Qualtrics to complete the various stages of research
 > - Apply knowledge of research best practices, data management, and statistics to ensure integrity and accuracy of all stages of research
-
-### Concordia Language Villages - Credit Teacher & Camp Counselor
-
-> *June 2015 - August 2019*<br>
-> *Bemidji, MN*<br>
-
-> - Collaborate with other counseling staff to run Mori No Ike Japanese Language Immersion Camp for a period of four to five weeks, working with children and students ages 8 to 18
-> - Create original programming and camp activities entirely in Japanese on a daily basis, including language teaching activities for high school credit, dance, cultural activities, and educational presentations
 
 ## Research Experience
 
@@ -125,8 +110,3 @@ Rochester, NY USA<br>
 
 > - Assessing how visual cues impact how accurately English speakers reproduce Japanese long vowels and geminate consonants
 
-### Translation & Synthesis of English & Japanese Research on the McGurk Effect
-
-> *Independent Research Grant*<br>
-
-> - Translating and synthesizing literature written in English and Japanese for further use in my undergraduate thesis study as a part of a student research grant awarded through Colgate University

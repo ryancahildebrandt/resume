@@ -44,6 +44,13 @@ Experimental design - Survey design - Data collection - Literature review - Data
 
 ## Work Experience
 
+### RIT & Varsity Tutors - Tutor
+
+*Sept 2019 - Present*<br>
+*Rochester, NY*<br>
+
+-Provide in-person and online tutoring services for students ranging from high school to PhD level, in a range of topics including statistics, psychology, Japanese, R, and data analysis
+
 ### CoreLogic - Senior Operations Associate
 
 *Feb 2020 - Aug 2020*<br>
@@ -53,13 +60,6 @@ Experimental design - Survey design - Data collection - Literature review - Data
 - Use knowledge of client and internal company procedures to resolve tax issues in a timely manner
 - Coordinate with team members and leads to resolve assigned tasks efficiently, while continuing to learn new problem solving procedures daily
 - Taking advantage of optional company trainings in Excel, Access, SQL database management, and Microsoft VBA
-
-### RIT & Varsity Tutors - Tutor
-
-*Sept 2019 - Present*<br>
-*Rochester, NY*<br>
-
--Provide in-person and online tutoring services for students ranging from high school to PhD level, in a range of topics including statistics, psychology, Japanese, R, and data analysis
 
 ### RIT - Research & Teaching Assistant
 

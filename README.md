@@ -32,7 +32,7 @@ Corning, NY USA<br>
 
 ### Programming
 
-R - Python - SQL - Julia - MATLAB - SAS - Git - Microsoft VBA
+R - Python - SQL - Julia - MATLAB - SAS - Git - Microsoft VBA - Regex
 
 ### Data & Statistics
 

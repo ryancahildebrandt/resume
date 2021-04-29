@@ -46,12 +46,12 @@ Experimental design - Survey design - Data collection - Literature review - Data
 
 ### Cerence, Inc. - Japanese Natural Language Understanding Specialist
 
-*Oct 2020 - Present*<br>
-*Burlington, MA (Remote)*<br>
+*Nov 2020 - Apr 2021*<br>
+*Remote*<br>
 
-- Revise and extend natural language understanding grammars used for speech recognition software
-- Analyze errors in NLU machine learning model output
-- Localize NLU resources into Japanese
+- Extend NLU grammars used for speech recognition models
+- Analyze and correct errors in NLU machine learning model output in an accurate and timely manner
+- Localize NLU resources into Japanese for use by a variety of global automakers.
 
 ### RIT & Varsity Tutors - Tutor
 

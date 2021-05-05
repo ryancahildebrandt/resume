@@ -44,14 +44,14 @@ Experimental design - Survey design - Data collection - Literature review - Data
 
 ## Work Experience
 
-### Cerence, Inc. - Japanese Natural Language Understanding Specialist
+### Cerence, Inc. - Japanese Natural Language Understanding Specialist -- Contract
 
 *Nov 2020 - Apr 2021*<br>
 *Remote*<br>
 
-- Extend NLU grammars used for speech recognition models
+- Extend NLU grammars used for speech recognition models with necessary labels and semantic tags
 - Analyze and correct errors in NLU machine learning model output in an accurate and timely manner
-- Localize NLU resources into Japanese for use by a variety of global automakers.
+- Localize English NLU resources into Japanese for use by a variety of global automakers, including intent classification and semantic labeling
 
 ### RIT & Varsity Tutors - Tutor
 

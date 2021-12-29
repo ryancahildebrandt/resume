@@ -2,7 +2,7 @@
 %	CLASS OPTIONS AND REQUIRED PACKAGES
 %----------------------------------------------------------------------------------------
 
-\ProvidesClass{deedy-resume}[2014/04/30 CV class]
+\ProvidesClass{deedy-resume_sm}[2014/04/30 CV class]
 \NeedsTeXFormat{LaTeX2e}
 \DeclareOption*{\PassOptionsToClass{\CurrentOption}{article}}
 \ProcessOptions\relax
@@ -43,7 +43,7 @@
 \setlength{\TPVertModule}{0.01\paperwidth} % Sets the units for the vertical position used in the \begin{textblock} argument
 \newcommand{\lastupdated}{ % Create a new command for printing the Last Updated text
 \begin{textblock}{25}(75,2) % The position of the Last Updated text on the page (75% of the page across, 2% down)
-\color{date}\fontspec[Path = /usr/share/texmf-dist/fonts/opentype/impallari/raleway/]{Raleway-ExtraLight}\fontsize{8pt}{10pt}\selectfont % Text styling of the text
+\color{date}\fontspec[Path = /usr/share/texmf-dist/fonts/opentype/impallari/raleway/]{Raleway-ExtraLight}\fontsize{7pt}{9pt}\selectfont % Text styling of the text
 Last Updated on \today % Last Updated text
 \end{textblock}}
 
@@ -59,7 +59,7 @@ Last Updated on \today % Last Updated text
 } \\[5pt] % Whitespace between the name and contact information
 \centering{ % Center the contact information
 \color{headings} % Use the headings color
-\fontspec[Path = /usr/share/texmf-dist/fonts/opentype/impallari/raleway/]{Raleway-Medium}\fontsize{11pt}{14pt}\selectfont #3} % Contact information font
+\fontspec[Path = /usr/share/texmf-dist/fonts/opentype/impallari/raleway/]{Raleway-Medium}\fontsize{9pt}{12pt}\selectfont #3} % Contact information font
 \noindent\makebox[\linewidth]{\color{headings}\rule{\paperwidth}{0.4pt}} % Horizontal rule
 \vspace{-5pt} % Reduce whitespace after the rule slightly
 }
@@ -75,19 +75,19 @@ Last Updated on \today % Last Updated text
 \newcommand{\sectionspace}{\vspace{8pt}} % Defines a command to add a set amount of space after sections and subsections
 
 \titleformat{\section}{ % Customize the large section titles
-\color{headings}\fontspec[Path = /usr/share/texmf-dist/fonts/truetype/typoland/lato/]{Lato-Light}\fontsize{16pt}{24pt}\selectfont \raggedright\uppercase}{}{0em}{}
+\color{headings}\fontspec[Path = /usr/share/texmf-dist/fonts/truetype/typoland/lato/]{Lato-Light}\fontsize{14pt}{22pt}\selectfont \raggedright\uppercase}{}{0em}{}
 
 \titleformat{\subsection}{ % Customize the subsections and places worked/studied titles
-\color{headings}\fontspec[Path = /usr/share/texmf-dist/fonts/truetype/typoland/lato/]{Lato-Bold}\fontsize{12pt}{12pt}\selectfont\raggedright\uppercase}{}{0em}{}
+\color{headings}\fontspec[Path = /usr/share/texmf-dist/fonts/truetype/typoland/lato/]{Lato-Bold}\fontsize{10pt}{10pt}\selectfont\raggedright\uppercase}{}{0em}{}
 
 \newcommand{\runsubsection}[1]{ % Used for creating subsections where a description is required on the same line
-\color{subheadings}\fontspec[Path = /usr/share/texmf-dist/fonts/truetype/typoland/lato/]{Lato-Bold}\fontsize{12pt}{12pt}\selectfont\uppercase {#1} \normalfont}
+\color{subheadings}\fontspec[Path = /usr/share/texmf-dist/fonts/truetype/typoland/lato/]{Lato-Bold}\fontsize{10pt}{10pt}\selectfont\uppercase {#1} \normalfont}
 
 \newcommand{\descript}[1]{ % Used for describing the subsection either on the same line or underneath
-\color{subheadings}\raggedright\fontspec[Path = /usr/share/texmf-dist/fonts/opentype/impallari/raleway/]{Raleway-Medium}\fontsize{11pt}{13pt}\selectfont {#1 \\} \normalfont}
+\color{subheadings}\raggedright\fontspec[Path = /usr/share/texmf-dist/fonts/opentype/impallari/raleway/]{Raleway-Medium}\fontsize{9pt}{11pt}\selectfont {#1 \\} \normalfont}
 
 \newcommand{\location}[1]{ % Used for specifying a duration and/or location under a subsection
-\color{headings}\raggedright\fontspec[Path = /usr/share/texmf-dist/fonts/opentype/impallari/raleway/]{Raleway-Medium}\fontsize{10pt}{12pt}\selectfont {#1\\} \normalfont}
+\color{headings}\raggedright\fontspec[Path = /usr/share/texmf-dist/fonts/opentype/impallari/raleway/]{Raleway-Medium}\fontsize{8pt}{10pt}\selectfont {#1\\} \normalfont}
 
 %----------------------------------------------------------------------------------------
 %	SECTION TITLE STYLING AND SPACING

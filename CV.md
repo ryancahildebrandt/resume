@@ -69,8 +69,8 @@
 *Graduate Thesis*
 
 - Study investigating how emotion word type and valence impact word processing via semantic satiation.
-- R : Stimulus selection, data analysis \& visualization
-- Qualtrics/SuperLab : Data collection \& experiment coding
+- R : Stimulus selection, data analysis & visualization
+- Qualtrics/SuperLab : Data collection & experiment coding
 - Presented at Psychonomic Society 2019 Meeting, Montreal
 
 **Detection & Perception of Emotional Faces**<br>

@@ -74,11 +74,11 @@ Language teaching - Translation - Linguistic theory - Cultural & educational act
 - Provide in-person and online tutoring services for students ranging from high school to PhD level, in a range of topics including statistics, psychology, Japanese, R, and data analysis
 
 ### Concordia Language Villages
-*July 2015 - Present*<br>
+*July 2015 - April 2021*<br>
 *Bemidji, MN*<br>
 
 #### Japanese Language & Cultural Activities Instructor, Academic Year Program
-*September 2020 - Present*<br>
+*September 2020 - April 2021*<br>
 *Remote*<br>
 
 - Teach Japanese language classes for high school credit, working with students ranging from beginner to intermediate-advanced level

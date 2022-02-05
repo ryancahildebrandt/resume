@@ -205,3 +205,14 @@ necessary processing tasks.
 *Independent Research Grant*<br>
 
 - Translating and synthesizing literature written in English and Japanese for further use in my undergraduate thesis study as a part of a student research grant awarded through Colgate University
+
+---
+
+## Publications
+
+- Crumb, R., Hildebrandt, R. & Sutton, T. M. (2019). The value of handwritten notes: A failure to find state-dependent effects when using a laptop to take notes and complete a quiz.
+
+## Conference Presentations
+
+- Hildebrandt, R., Sutton, T. M. (2019, November). Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm. Poster presented at the Psychonomic Society 2019 Annual Meeting, Montreal, Quebec, Canada.
+- Sutton, T. M., Crumb, R., & Hildebrandt, R. (2019, May). State-Dependent Learning and Note-Taking Strategies. Poster presented at the APS Annual Convention. Washington, DC, USA.

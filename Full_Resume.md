@@ -79,7 +79,7 @@ Language teaching - Translation - Linguistic theory - Cultural & educational act
 
 ## Work Experience
 
-### TekSystems - Google CCAI Dialogue Designer -- Contract
+### TekSystems - Google CCAI Data Designer -- Contract
 
 *Jun 2021 - Present*<br>
 *Remote*<br>

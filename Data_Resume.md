@@ -57,7 +57,7 @@ Experimental design - Survey design - Data collection - Literature review - Data
 
 ## Work Experience
 
-### TekSystems - Google CCAI Dialogue Designer -- Contract
+### TekSystems - Google CCAI Data Designer -- Contract
 
 *Jun 2021 - Present*<br>
 *Remote*<br>

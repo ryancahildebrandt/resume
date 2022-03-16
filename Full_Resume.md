@@ -31,7 +31,8 @@
 *Coursera - edX - Udemy - DataCamp*<br>
 
 - The Brain and Space, Learning How to Learn, The Bilingual Brain 
-- R & Python programming courses
+- Master SQL for Data Science, Feature Selection for Machine Learning, Deep Learning A-Z: Hands-On Artificial Neural Networks, Complete Time Series Analysis Bootcamp in R
+- Graph Theory, Bayesian Statistics, Causal Data Science with Directed Acyclic Graphs
 - Customer Experiences with Contact Center AI - Dialogflow ES & CX Specializations
 
 ---
@@ -84,8 +85,9 @@ Language teaching - Translation - Linguistic theory - Cultural & educational act
 *Jun 2021 - Present*<br>
 *Remote*<br>
 
-- Identify and label errors in customer-chatbot interactions using taxonomies built based on client business needs
-- Apply statistical techniques to analyze client data and present recommendations for product improvements
+- Responsible for implementing and maintaining an analytics pipeline for processing customer feedback, including data cleaning, KPI tracking, and clustering unlabeled free text responses
+- Apply statistical and machine learning techniques to analyze client data in order to recommend for product improvements
+- Develop automated analytics pipelines to track key performance metrics in user-chatbot interactions and user provided feedback
 - Design, build, and maintain Google CCAI agents for client-specific use cases as well as NLP experiments
 
 ### Cerence, Inc. - Japanese Natural Language Understanding Specialist -- Contract
@@ -102,7 +104,9 @@ Language teaching - Translation - Linguistic theory - Cultural & educational act
 *Sept 2019 - Present*<br>
 *Rochester, NY*<br>
 
--Provide in-person and online tutoring services for students ranging from high school to PhD level, in a range of topics including statistics, psychology, Japanese, R, and data analysis
+- Tutoring both online and in person for high school, undergraduate, and graduate level students.
+- Specializing in statistics and data analysis using R, Python, and SPSS.
+- Additional tutoring in Japanese, social science research design, and academic writing.
 
 ### Concordia Language Villages
 *July 2015 - April 2021*<br>

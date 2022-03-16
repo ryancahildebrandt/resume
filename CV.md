@@ -56,7 +56,8 @@
 *Coursera - edX - Udemy - DataCamp*<br>
 
 - The Brain and Space, Learning How to Learn, The Bilingual Brain 
-- R & Python programming courses
+- Master SQL for Data Science, Feature Selection for Machine Learning, Deep Learning A-Z: Hands-On Artificial Neural Networks, Complete Time Series Analysis Bootcamp in R
+- Graph Theory, Bayesian Statistics, Causal Data Science with Directed Acyclic Graphs
 - Customer Experiences with Contact Center AI - Dialogflow ES & CX Specializations
 
 ---

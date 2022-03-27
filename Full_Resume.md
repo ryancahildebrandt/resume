@@ -49,7 +49,7 @@ Git - Regex - Shell - Linux/Unix - Windows
 
 ### Data Analysis & Statistical Techniques
 
-Data manipulation - Data tidying - NLP (sentiment analysis, topic modeling, vectorization) - Feature engineering - Regresison (linear, logistic, polynomial) - Mixed linear modeling - Structural equation modeling - (M)ANOVA - Unsupervised & supervised classification - Principal component analysis
+Data manipulation - Data tidying - NLP (sentiment analysis, topic modeling, vectorization) - Feature engineering - Regresison (linear, logistic, polynomial) - Mixed linear modeling - Structural equation modeling - (M)AN(C)OVA - Unsupervised & supervised classification - Principal component analysis & dimensionality reduction
 
 ### Data & Statistics Software
 
@@ -85,9 +85,8 @@ Language teaching - Translation - Linguistic theory - Cultural & educational act
 *Jun 2021 - Present*<br>
 *Remote*<br>
 
-- Responsible for implementing and maintaining an analytics pipeline for processing customer feedback, including data cleaning, KPI tracking, and clustering unlabeled free text responses
+- Responsible for building a custom analytics pipeline for processing customer feedback, including migration from spreadsheets to BigQuery, data cleaning, KPI tracking, and clustering unlabeled free text responses
 - Apply statistical and machine learning techniques to analyze client data in order to recommend for product improvements
-- Develop automated analytics pipelines to track key performance metrics in user-chatbot interactions and user provided feedback
 - Design, build, and maintain Google CCAI agents for client-specific use cases as well as NLP experiments
 
 ### Cerence, Inc. - Japanese Natural Language Understanding Specialist -- Contract
@@ -123,7 +122,7 @@ Language teaching - Translation - Linguistic theory - Cultural & educational act
 *July 2017 - August 2019*<br>
 *Bemidji, MN*<br>
 
-- Teach daily Japanese language classes for students ranging from beginner to ~300 level Japanese, including curricuum structuring, lesson planning, student assessments, and a range of activities and projects to showcase student outcomes
+- Teach daily Japanese language classes for students ranging from beginner to ~300 level Japanese, including curriculum structuring, lesson planning, student assessments, and a range of activities and projects to showcase student outcomes
 - Classes take place over 4 weeks as a part of CLV's Accredited high school credit Summer programs, equivalent to one academic year of instruction totaling 180 hours when combined with other immersion activities at the camp
 
 #### Summer Camp Counselor

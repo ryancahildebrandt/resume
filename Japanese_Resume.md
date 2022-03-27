@@ -88,7 +88,7 @@ Language teaching - Translation - Linguistic theory - Cultural & educational act
 *July 2017 - August 2019*<br>
 *Bemidji, MN*<br>
 
-- Teach daily Japanese language classes for students ranging from beginner to ~300 level Japanese, including curricuum structuring, lesson planning, student assessments, and a range of activities and projects to showcase student outcomes
+- Teach daily Japanese language classes for students ranging from beginner to ~300 level Japanese, including curriculum structuring, lesson planning, student assessments, and a range of activities and projects to showcase student outcomes
 - Classes take place over 4 weeks as a part of CLV's Accredited high school credit Summer programs, equivalent to one academic year of instruction totaling 180 hours when combined with other immersion activities at the camp
 
 #### Summer Camp Counselor

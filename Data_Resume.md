@@ -44,7 +44,7 @@ Git - Regex - Shell - Linux/Unix - Windows
 
 ### Data Analysis & Statistical Techniques
 
-Data manipulation - Data tidying - NLP (sentiment analysis, topic modeling, vectorization) - Feature engineering - Regresison (linear, logistic, polynomial) - Mixed linear modeling - Structural equation modeling - (M)ANOVA - Unsupervised & supervised classification - Principal component analysis
+Data manipulation - Data tidying - NLP (sentiment analysis, topic modeling, vectorization) - Feature engineering - Regresison (linear, logistic, polynomial) - Mixed linear modeling - Structural equation modeling - (M)AN(C)OVA - Unsupervised & supervised classification - Principal component analysis & dimensionality reduction
 
 ### Data & Statistics Software
 
@@ -63,9 +63,8 @@ Experimental design - Survey design - Data collection - Literature review - Data
 *Jun 2021 - Present*<br>
 *Remote*<br>
 
-- Responsible for implementing and maintaining an analytics pipeline for processing customer feedback, including data cleaning, KPI tracking, and clustering unlabeled free text responses
+- Responsible for building a custom analytics pipeline for processing customer feedback, including migration from spreadsheets to BigQuery, data cleaning, KPI tracking, and clustering unlabeled free text responses
 - Apply statistical and machine learning techniques to analyze client data in order to recommend for product improvements
-- Develop automated analytics pipelines to track key performance metrics in user-chatbot interactions and user provided feedback
 - Design, build, and maintain Google CCAI agents for client-specific use cases as well as NLP experiments
 
 ### Cerence, Inc. - Japanese Natural Language Understanding Specialist -- Contract

@@ -34,13 +34,9 @@
 
 ## Skills
 
-### Programming Languages
+### Programming Languages, Tools, & Platforms
 
-R - Python - SQL - Julia - MATLAB - SAS - Microsoft VBA - Google AppsScript
-
-### Development Tools & Platforms
-
-Git - Regex - Shell - Linux/Unix - Windows
+R - Python - (No)SQL - Julia - MATLAB - SAS - Microsoft VBA - Google AppsScript - Git - Shell - Linux/Unix - Windows
 
 ### Data Analysis & Statistical Techniques
 
@@ -48,7 +44,7 @@ Data manipulation - Data tidying - NLP (sentiment analysis, topic modeling, vect
 
 ### Data & Statistics Software
 
-SPSS - Tableau - Excel - Microsoft Access - Google Data Studio - Google Cloud Platform - KNIME - JASP - jamovi - RStudio - Spyder - MiniTab - Amazon MTurk - Qualtrics
+SPSS - Tableau - Excel - Microsoft Access - Google Data Studio - Google Cloud Platform - KNIME - JASP - jamovi - RStudio - Spyder - MiniTab - Amazon MTurk - Qualtrics - MongoDB - Power BI
 
 ### Research Skills
 

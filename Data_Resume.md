@@ -54,12 +54,21 @@ Experimental design - Survey design - Data collection - Literature review - Data
 
 ## Work Experience
 
-### TekSystems - Google CCAI Data Designer -- Contract
-
+### TekSystems for Google CCAI
 *Jun 2021 - Present*<br>
 *Remote*<br>
 
-- Responsible for building a custom analytics pipeline for processing customer feedback, including migration from spreadsheets to BigQuery, data cleaning, KPI tracking, and clustering unlabeled free text responses
+#### Senior Engineer
+*Jun 2022 - Present*<br>
+*Remote*<br>
+
+- Responsible for building custom analytics pipelines in response to client needs, including migration from spreadsheets to BigQuery, data cleaning, KPI tracking, and clustering unlabeled free text responses
+- Coordinate data processing team efforts for labeling datasets, developing classification guidelines, and technical process documentation 
+
+#### Data Designer -- Contract
+*Jun 2021 - Jun 2022*<br>
+*Remote*<br>
+
 - Apply statistical and machine learning techniques to analyze client data in order to recommend for product improvements
 - Design, build, and maintain Google CCAI agents for client-specific use cases as well as NLP experiments
 

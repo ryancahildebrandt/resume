@@ -62,7 +62,7 @@ Experimental design - Survey design - Data collection - Literature review - Data
 *Jun 2022 - Present*<br>
 *Remote*<br>
 
-- Responsible for building custom analytics pipelines in response to client needs, including migration from spreadsheets to BigQuery, data cleaning, KPI tracking, and clustering unlabeled free text responses
+- Build custom analytics pipelines in response to client needs, including migration from spreadsheets to BigQuery, data cleaning, KPI tracking, and clustering unlabeled free text responses
 - Coordinate data processing team efforts for labeling datasets, developing classification guidelines, and technical process documentation 
 
 #### Data Designer -- Contract

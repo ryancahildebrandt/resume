@@ -76,14 +76,20 @@ Language teaching - Translation - Linguistic theory - Cultural & educational act
 
 ## Work Experience
 
+### TekSystems for Google CCAI
+*Jun 2021 - Present*<br>
+*Remote*<br>
+
 #### Senior Engineer
+
 *Jun 2022 - Present*<br>
 *Remote*<br>
 
-- Responsible for building custom analytics pipelines in response to client needs, including migration from spreadsheets to BigQuery, data cleaning, KPI tracking, and clustering unlabeled free text responses
+- Build custom analytics pipelines in response to client needs, including migration from spreadsheets to BigQuery, data cleaning, KPI tracking, and clustering unlabeled free text responses
 - Coordinate data processing team efforts for labeling datasets, developing classification guidelines, and technical process documentation 
 
 #### Data Designer -- Contract
+
 *Jun 2021 - Jun 2022*<br>
 *Remote*<br>
 

@@ -118,7 +118,7 @@
 
 ## Publications
 
-- Crumb, R., Hildebrandt, R. & Sutton, T. M. (2019). The value of handwritten notes: A failure to find state-dependent effects when using a laptop to take notes and complete a quiz.
+- Crumb, R. M., Hildebrandt, R., & Sutton, T. M. (2022). The value of handwritten notes: A failure to find state-dependent effects when using a laptop to take notes and complete a quiz. Teaching of Psychology, 49(1), 7-13.
 
 ## Conference Presentations
 

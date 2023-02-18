@@ -28,12 +28,11 @@
 ### Supplemental Coursework
 
 *August 2013 - Present*<br>
-*Coursera - edX - Udemy - DataCamp*<br>
+*Coursera - edX - Udemy - DataCamp - PluralSight*<br>
 
-- The Brain and Space, Learning How to Learn, The Bilingual Brain 
-- Master SQL for Data Science, Feature Selection for Machine Learning, Deep Learning A-Z: Hands-On Artificial Neural Networks, Complete Time Series Analysis Bootcamp in R
-- Graph Theory, Bayesian Statistics, Causal Data Science with Directed Acyclic Graphs
-- Customer Experiences with Contact Center AI - Dialogflow ES & CX Specializations
+- Natural Language Processing Specialization, Feature Selection for Machine Learning, Deep Learning A-Z: Hands-On Artificial Neural Networks, Causal Data Science with Directed Acyclic Graphs, Bayesian Statistics, Graph Theory
+- Creating Business Value with Data and Looker Specialization, Customer Experiences with Contact Center AI - Dialogflow ES & CX Specializations, From Data to Insights with Google Cloud Learning Path, Machine Learning on Google Cloud Learning Path
+- TensorFlow Developer Specialization, TensorFlow: Advanced Techniques Specialization, Complete Time Series Analysis Bootcamp in R, Master SQL for Data Science, The Brain and Space, Learning How to Learn, The Bilingual Brain 
 
 ---
 
@@ -49,7 +48,7 @@ Data manipulation - Data tidying - NLP (sentiment analysis, topic modeling, vect
 
 ### Data & Statistics Software
 
-SPSS - Tableau - Excel - Microsoft Access - Google Data Studio - Google Cloud Platform - KNIME - JASP - jamovi - RStudio - Spyder - MiniTab - Amazon MTurk - Qualtrics - MongoDB - Power BI
+SPSS - Tableau - Excel - Microsoft Access - Google Data Studio - Google Cloud Platform - KNIME - JASP - jamovi - RStudio - Spyder - MiniTab - Amazon MTurk - Qualtrics - MongoDB - Power BI - Looker
 
 ### Research Skills
 

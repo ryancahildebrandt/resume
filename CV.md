@@ -14,7 +14,7 @@
 - L2 & novel language phonology
 - Bilingualism, language acquisition & learning
 - Emotional word characteristics
-- Numerical representation of semantic information 
+- Word/sentence embedding techniques
 
 ---
 

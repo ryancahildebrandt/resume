@@ -8,71 +8,6 @@
 
 ---
 
-## Education
-
-### Rochester Institute of Technology
-
-*January 2018 - December 2019*<br>
-*MS Experimental Psychology*<br>
-
-### Colgate University
-
-*August 2013 - May 2017*<br>
-*BA Psychology & Japanese*<br>
-
-### Kyoto Japanese Language School
-
-*August 2014 - December 2014*<br>
-*Semester-long Japanese Language Study*<br>
-
-### Supplemental Coursework
-
-*August 2013 - Present*<br>
-*Coursera - edX - Udemy - DataCamp - PluralSight*<br>
-
-- Natural Language Processing Specialization, Feature Selection for Machine Learning, Deep Learning A-Z: Hands-On Artificial Neural Networks, Causal Data Science with Directed Acyclic Graphs, Bayesian Statistics, Graph Theory
-- Creating Business Value with Data and Looker Specialization, Customer Experiences with Contact Center AI - Dialogflow ES & CX Specializations, From Data to Insights with Google Cloud Learning Path, Machine Learning on Google Cloud Learning Path
-- TensorFlow Developer Specialization, TensorFlow: Advanced Techniques Specialization, Complete Time Series Analysis Bootcamp in R, Master SQL for Data Science, The Brain and Space, Learning How to Learn, The Bilingual Brain 
-
----
-
-## Skills
-
-### Programming Languages, Tools, & Platforms
-
-R - Python - (No)SQL - Julia - MATLAB - SAS - Microsoft VBA - Google AppsScript - Git - Shell - Linux/Unix - Windows
-
-### Data Analysis & Statistical Techniques
-
-Data manipulation - Data tidying - NLP (sentiment analysis, topic modeling, vectorization) - Feature engineering - Regresison (linear, logistic, polynomial) - Mixed linear modeling - Structural equation modeling - (M)AN(C)OVA - Unsupervised & supervised classification - Principal component analysis & dimensionality reduction
-
-### Data & Statistics Software
-
-SPSS - Tableau - Excel - Microsoft Access - Google Data Studio - Google Cloud Platform - KNIME - JASP - jamovi - RStudio - Spyder - MiniTab - Amazon MTurk - Qualtrics - MongoDB - Power BI - Looker
-
-### Research Skills
-
-Experimental design - Survey design - Data collection - Literature review - Data analysis - Data visualization - Research presentation - Human subjects research - IRB compliance - Scientific writing - Academic writing
-
-### Language
-
-Language teaching - Translation - Linguistic theory - Cultural & educational activities - Natural Language Processing - Multilingual Research
-
-### Japanese - CEFR B2
-
-#### Conversational<br>
-> - *Advanced High*<br>
-#### Presentational - Spoken<br>
-> - *Advanced Mid*<br>
-#### Presentational - Written<br>
-> - *Intermediate High*<br>
-#### Interpretive - Spoken<br>
-> - *Intermediate High*<br>
-#### Interpretive - Written<br>
-> - *Intermediate Mid*<br>
-
----
-
 ## Work Experience
 
 ### TekSystems for Google CCAI
@@ -167,6 +102,71 @@ inspect fish incoming from fishing boats.
 - Maintain market floor flow and operations.
 - Communicate in Japanese with staff and other interns to ensure completion of
 necessary processing tasks.
+
+---
+
+## Skills
+
+### Programming Languages, Tools, & Platforms
+
+R - Python - (No)SQL - Julia - MATLAB - SAS - Microsoft VBA - Google AppsScript - Git - Shell - Linux/Unix - Windows
+
+### Data Analysis & Statistical Techniques
+
+Data manipulation - Data tidying - NLP (sentiment analysis, topic modeling, embedding) - Feature engineering - Regresison (linear, logistic, polynomial) - Mixed linear modeling - Structural equation modeling - (M)AN(C)OVA - Unsupervised & supervised classification - Principal component analysis & dimensionality reduction
+
+### Data & Statistics Software
+
+SPSS - Tableau - Excel - Microsoft Access - Google Data Studio - Google Cloud Platform - KNIME - JASP - jamovi - RStudio - Spyder - MiniTab - Amazon MTurk - Qualtrics - MongoDB - Power BI - Looker - BigQuery
+
+### Research Skills
+
+Experimental design - Survey design - Data collection - Literature review - Data analysis - Data visualization - Research presentation - Human subjects research - IRB compliance - Scientific writing - Academic writing
+
+### Language
+
+Language teaching - Translation - Linguistic theory - Cultural & educational activities - Natural Language Processing - Multilingual Research
+
+### Japanese - CEFR B2
+
+#### Conversational<br>
+> - *Advanced High*<br>
+#### Presentational - Spoken<br>
+> - *Advanced Mid*<br>
+#### Presentational - Written<br>
+> - *Intermediate High*<br>
+#### Interpretive - Spoken<br>
+> - *Intermediate High*<br>
+#### Interpretive - Written<br>
+> - *Intermediate Mid*<br>
+
+---
+
+## Education
+
+### Rochester Institute of Technology
+
+*January 2018 - December 2019*<br>
+*MS Experimental Psychology*<br>
+
+### Colgate University
+
+*August 2013 - May 2017*<br>
+*BA Psychology & Japanese*<br>
+
+### Kyoto Japanese Language School
+
+*August 2014 - December 2014*<br>
+*Semester-long Japanese Language Study*<br>
+
+### Supplemental Coursework
+
+*August 2013 - Present*<br>
+*Coursera - edX - Udemy - DataCamp - PluralSight*<br>
+
+- Natural Language Processing Specialization, Feature Selection for Machine Learning, Deep Learning A-Z: Hands-On Artificial Neural Networks, Causal Data Science with Directed Acyclic Graphs, Bayesian Statistics, Graph Theory
+- Creating Business Value with Data and Looker Specialization, Customer Experiences with Contact Center AI - Dialogflow ES & CX Specializations, From Data to Insights with Google Cloud Learning Path, Machine Learning on Google Cloud Learning Path
+- TensorFlow Developer Specialization, TensorFlow: Advanced Techniques Specialization, Complete Time Series Analysis Bootcamp in R, Master SQL for Data Science, The Brain and Space, Learning How to Learn, The Bilingual Brain 
 
 ---
 

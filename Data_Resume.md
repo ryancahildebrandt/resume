@@ -8,49 +8,6 @@
 
 ---
 
-## Education
-
-### Rochester Institute of Technology
-
-*January 2018 - December 2019*<br>
-*MS Experimental Psychology*<br>
-
-### Colgate University
-
-*August 2013 - May 2017*<br>
-*BA Psychology & Japanese*<br>
-
-### Supplemental Coursework
-
-*August 2013 - Present*<br>
-*Coursera - edX - Udemy - DataCamp - PluralSight*<br>
-
-- Natural Language Processing Specialization, Feature Selection for Machine Learning, Deep Learning A-Z: Hands-On Artificial Neural Networks, Causal Data Science with Directed Acyclic Graphs, Bayesian Statistics, Graph Theory
-- Creating Business Value with Data and Looker Specialization, Customer Experiences with Contact Center AI - Dialogflow ES & CX Specializations, From Data to Insights with Google Cloud Learning Path, Machine Learning on Google Cloud Learning Path
-- TensorFlow Developer Specialization, TensorFlow: Advanced Techniques Specialization, Complete Time Series Analysis Bootcamp in R, Master SQL for Data Science, The Brain and Space, Learning How to Learn, The Bilingual Brain 
-
----
-
-## Skills
-
-### Programming Languages, Tools, & Platforms
-
-R - Python - (No)SQL - Julia - MATLAB - SAS - Microsoft VBA - Google AppsScript - Git - Shell - Linux/Unix - Windows
-
-### Data Analysis & Statistical Techniques
-
-Data manipulation - Data tidying - NLP (sentiment analysis, topic modeling, vectorization) - Feature engineering - Regresison (linear, logistic, polynomial) - Mixed linear modeling - Structural equation modeling - (M)AN(C)OVA - Unsupervised & supervised classification - Principal component analysis & dimensionality reduction
-
-### Data & Statistics Software
-
-SPSS - Tableau - Excel - Microsoft Access - Google Data Studio - Google Cloud Platform - KNIME - JASP - jamovi - RStudio - Spyder - MiniTab - Amazon MTurk - Qualtrics - MongoDB - Power BI - Looker
-
-### Research Skills
-
-Experimental design - Survey design - Data collection - Literature review - Data analysis - Data visualization - Research presentation - Human subjects research - IRB compliance - Scientific writing - Academic writing
-
----
-
 ## Work Experience
 
 ### TekSystems for Google CCAI
@@ -110,6 +67,49 @@ Experimental design - Survey design - Data collection - Literature review - Data
 
 ---
 
+## Skills
+
+### Programming Languages, Tools, & Platforms
+
+R - Python - (No)SQL - Julia - MATLAB - SAS - Microsoft VBA - Google AppsScript - Git - Shell - Linux/Unix - Windows
+
+### Data Analysis & Statistical Techniques
+
+Data manipulation - Data tidying - NLP (sentiment analysis, topic modeling, embedding) - Feature engineering - Regresison (linear, logistic, polynomial) - Mixed linear modeling - Structural equation modeling - (M)AN(C)OVA - Unsupervised & supervised classification - Principal component analysis & dimensionality reduction
+
+### Data & Statistics Software
+
+SPSS - Tableau - Excel - Microsoft Access - Google Data Studio - Google Cloud Platform - KNIME - JASP - jamovi - RStudio - Spyder - MiniTab - Amazon MTurk - Qualtrics - MongoDB - Power BI - Looker - BigQuery
+
+### Research Skills
+
+Experimental design - Survey design - Data collection - Literature review - Data analysis - Data visualization - Research presentation - Human subjects research - IRB compliance - Scientific writing - Academic writing
+
+---
+
+## Education
+
+### Rochester Institute of Technology
+
+*January 2018 - December 2019*<br>
+*MS Experimental Psychology*<br>
+
+### Colgate University
+
+*August 2013 - May 2017*<br>
+*BA Psychology & Japanese*<br>
+
+### Supplemental Coursework
+
+*August 2013 - Present*<br>
+*Coursera - edX - Udemy - DataCamp - PluralSight*<br>
+
+- Natural Language Processing Specialization, Feature Selection for Machine Learning, Deep Learning A-Z: Hands-On Artificial Neural Networks, Causal Data Science with Directed Acyclic Graphs, Bayesian Statistics, Graph Theory
+- Creating Business Value with Data and Looker Specialization, Customer Experiences with Contact Center AI - Dialogflow ES & CX Specializations, From Data to Insights with Google Cloud Learning Path, Machine Learning on Google Cloud Learning Path
+- TensorFlow Developer Specialization, TensorFlow: Advanced Techniques Specialization, Complete Time Series Analysis Bootcamp in R, Master SQL for Data Science, The Brain and Space, Learning How to Learn, The Bilingual Brain 
+
+---
+
 ## Research Experience
 
 ### Rochester Institute of Technology
@@ -149,3 +149,4 @@ Experimental design - Survey design - Data collection - Literature review - Data
 *Undergraduate Thesis*
 
 - Assessing how visual cues impact how accurately English speakers reproduce Japanese long vowels and geminate consonants.
+

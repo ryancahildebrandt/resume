@@ -1,7 +1,3 @@
----
-mainfont: Noto Sans Mono CJK TC
-lang: ja
----
 
 {.basics}
 

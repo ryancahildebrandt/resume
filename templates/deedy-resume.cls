@@ -10,6 +10,7 @@
 
 \usepackage[hmargin=1.25cm, vmargin=0.75cm]{geometry} % Specifies horizontal and vertical page margins
 \usepackage{hyperref} % Required for links
+\usepackage[english]{babel}
 
 %----------------------------------------------------------------------------------------
 %	COLORS
@@ -31,6 +32,10 @@
 \setmainfont[Color=primary, Path = /usr/share/texmf-dist/fonts/truetype/typoland/lato/, BoldItalicFont = Lato-Italic, BoldFont = Lato-Regular, ItalicFont = Lato-LightItalic]{Lato-Light} % The primary font for content text; defines bold, italic and bold-italic as well
 
 \setsansfont[Scale=MatchLowercase,Mapping=tex-text, Path = /usr/share/texmf-dist/fonts/opentype/impallari/raleway/, BoldFont = Raleway-Bold]{Raleway-ExtraLight} % The font used where \sfffamily is called
+
+\usepackage{xeCJK}
+
+\setCJKmainfont{Noto Sans CJK JP}
 
 %----------------------------------------------------------------------------------------
 %	LAST UPDATED COMMAND

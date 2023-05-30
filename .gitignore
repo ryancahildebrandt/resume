@@ -7,3 +7,6 @@
 *.xdv
 *.pdf
 *~
+*backup*
+*.docx
+*etter*

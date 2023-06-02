@@ -12,7 +12,7 @@ ryancahildebrandt@gmail.com | Corning, New York
 ---
 
 ## Work Experience
-### **Senior Engineer**
+### **Senior Engineer: NLP, ML, & Analytics Specialist**
 *TekSystems for Google CCAI*, 2022-06 - Present
 - Design custom analytics pipelines in response to client needs via GCP services
 - Engineer solutions including data migration from spreadsheets to BigQuery, data cleaning, KPI tracking, clustering unlabeled free text responses, and training custom models to simplify analytics

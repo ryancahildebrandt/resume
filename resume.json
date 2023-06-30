@@ -919,6 +919,29 @@
                 "data",
                 "japanese"
             ]
+        },
+        {
+            "name": "bowts",
+            "description": "An experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation",
+            "highlights":
+            [],
+            "keywords":
+            [
+                "Report",
+                "Python",
+                "NLP",
+                "Sentence embedding"
+            ],
+            "url": "https://github.com/ryancahildebrandt/bowts",
+            "roles":
+            [],
+            "tags":
+            [
+                "full",
+                "cv",
+                "data",
+                "japanese"
+            ]
         }
     ]
 }

@@ -109,6 +109,10 @@ Keywords: *Application, R, NLP, Sentence embedding*
 An experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge
 Keywords: *Report, Python, NLP, Sentence embedding*
 
+### **[bowts](https://github.com/ryancahildebrandt/bowts)**
+An experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation
+Keywords: *Report, Python, NLP, Sentence embedding*
+
 ## Languages
 
 ## Research Interests

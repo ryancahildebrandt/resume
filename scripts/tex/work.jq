@@ -1,13 +1,12 @@
 .work[] |
 select(.tags[] | contains($tag)) |
 [
-("\\\\runsubsection{" + .position + "};"),
-("\\\\descript{" + .company + "}, "), 
-("\\\\location{" + .startDate + " - "), 
-(.endDate + "};"),
-("\\\\begin{tightitemize};"),
+("\\\\noindent"),
+("\\\\textbf{" + .position + "} ;;"),
+("\\\\noindent"),
+("\\\\textit{" + .company + "} \\\\hfill " + .startDate + " - " + .endDate + ";"), 
+("\\\\begin{itemize}"),
 ("\\\\item " + .highlights[] + ";"),
-("\\\\end{tightitemize};"),
-("\\\\sectionspace;")
+("\\\\end{itemize}")
 ] | 
 join("")

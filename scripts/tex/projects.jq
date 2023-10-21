@@ -1,8 +1,9 @@
 .projects[] |
 select(.tags[] | contains($tag)) |
 [
-("\\\\href{" + .url + "}{" + .name + "}: "), 
-(.description + ";"),  
-("Keywords: " + (.keywords | join(" \\\\textbullet{} ")) + ";")
+("\\\\noindent"),
+("\\\\textbf{\\\\href{" + .url + "}{" + .name + "}}: "), 
+(.description + ";;"),  
+("\\\\textit{Keywords:} " + (.keywords | join(" - ")) + ";")
 ] | 
 join("")

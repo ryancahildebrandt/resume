@@ -1,9 +1,9 @@
 .publications[] |
 select(.tags[] | contains($tag)) |
 [
-("\\\\textbf{" + .name + " " + .releaseDate + "};"), 
+("\\\\noindent"),
+("\\\\textbf{\\\\href{" + .website + "}{" + .name + "} \\(" + .releaseDate + "\\)};"),
 (.publisher + ";"),
-(.authors + ";"),
-(.website + ";")
+(.authors + ";")
 ] | 
 join("")

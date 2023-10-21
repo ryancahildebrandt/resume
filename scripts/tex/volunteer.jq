@@ -1,13 +1,12 @@
 .volunteer[] |
 select(.tags[] | contains($tag)) |
 [
-("\\\\runsubsection{" + .position + "};"), 
-("\\\\descript{" + .organization + "}, "), 
-("\\\\location{" + .startDate + " - "), 
-(.endDate + "};"),
-("\\\\begin{tightitemize};"),
+("\\\\noindent"),
+("\\\\textbf{" + .position + "} ;;"),
+("\\\\noindent"),
+("\\\\textit{" + .organization + "} \\\\hfill " + .startDate + " - " + .endDate + ";"), 
+("\\\\begin{itemize}"),
 ("\\\\item " + .highlights[] + ";"),
-("\\\\end{tightitemize};"),
-("\\\\sectionspace;")
+("\\\\end{itemize}")
 ] | 
 join("")

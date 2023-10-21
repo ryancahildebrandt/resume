@@ -1,7 +1,8 @@
 .courses[] |
 select(.tags[] | contains($tag)) |
 [
-("\\\\subsection{" + .category + "};"), 
-("Courses: " + (.keywords | join(" \\\\textbullet{} ")) + ";")
+("\\\\noindent"),
+("\\\\textbf{" + .category + "};"), 
+((.keywords | join(" - ")) + ";")
 ] | 
 join("")

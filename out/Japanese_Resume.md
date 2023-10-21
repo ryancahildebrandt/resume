@@ -1,6 +1,6 @@
 
 # Ryan Hildebrandt
-### Data Scientist & NLP Practitioner
+### Data Scientist & NLP Specialist
 
 --- 
 
@@ -71,7 +71,7 @@ Contextual particle frequency in written Japanese, taking a swing at the age old
 Keywords: *Report, Python, Japanese, NLP*
 
 ### **[thesis](https://github.com/ryancahildebrandt/thesis)**
-Scripts and analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm
+Analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm
 Keywords: *Publication, R, Psycholinguistics, Study*
 
 ### **[aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus)**
@@ -97,6 +97,10 @@ Keywords: *Report, Python, NLP, Sentence embedding*
 ### **[bowts](https://github.com/ryancahildebrandt/bowts)**
 An experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation
 Keywords: *Report, Python, NLP, Sentence embedding*
+
+### **[iterate](https://github.com/ryancahildebrandt/iterate)**
+Iterative clustering for sklearn clusterers
+Keywords: *Tools, Python, Clustering, NLP*
 
 ## Languages
 ### **English: Native**

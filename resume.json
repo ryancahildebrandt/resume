@@ -2,7 +2,7 @@
     "basics":
     {
         "name": "Ryan Hildebrandt",
-        "label": "Data Scientist & NLP Practitioner",
+        "label": "Data Scientist & NLP Specialist",
         "summary": "Broadly, I'm an interdisciplinary data scientist with special interests in psycholinguistics, computational linguistics, statistics, and Japanese. More specifically, I apply statistical and natural language processing techniques to solve problems and enrich my and my team's understanding of whatever data is at hand. I bring a strong statistical emphasis to my work, whether in the form of data handling, ad-hoc statistical analyses, or machine learning applications",
         "website": "",
         "phone": "",
@@ -46,10 +46,9 @@
             "summary": "",
             "highlights":
             [
-                "Design custom analytics pipelines in response to client needs via GCP services",
+                "Design custom NLP and analytics pipelines in response to client needs via GCP services",
                 "Engineer solutions including data migration from spreadsheets to BigQuery, data cleaning, KPI tracking, clustering unlabeled free text responses, and training custom models to simplify analytics",
-                "Coordinate data processing team efforts for labeling datasets, developing classification guidelines, and technical process documentation",
-                "Build and maintain NLP analytics tools for use on a range of datasets within the CCAI project"
+                "Coordinate data processing team efforts for labeling datasets, developing classification guidelines, and technical process documentation"
             ],
             "tags":
             [
@@ -107,8 +106,7 @@
             [
                 "Synthesize tax information from company, mortgage client, and public agency databases in order to resolve tax issues",
                 "Use knowledge of client and internal company procedures to resolve tax issues in a timely manner",
-                "Coordinate with team members and leads to resolve assigned tasks efficiently, while continuing to learn new problem solving procedures daily",
-                "Taking advantage of company trainings in Excel, Access, SQL database management, and Microsoft VBA"
+                "Coordinate with team members and leads to resolve assigned tasks efficiently, while continuing to learn new problem solving procedures daily"
             ],
             "tags":
             [
@@ -785,7 +783,7 @@
         },
         {
             "name": "thesis",
-            "description": "Scripts and analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm",
+            "description": "Analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm",
             "highlights":
             [],
             "keywords":
@@ -934,6 +932,29 @@
                 "Sentence embedding"
             ],
             "url": "https://github.com/ryancahildebrandt/bowts",
+            "roles":
+            [],
+            "tags":
+            [
+                "full",
+                "cv",
+                "data",
+                "japanese"
+            ]
+        },
+        {
+            "name": "iterate",
+            "description": "Iterative clustering for sklearn clusterers",
+            "highlights":
+            [],
+            "keywords":
+            [
+                "Tools",
+                "Python",
+                "Clustering",
+                "NLP"
+            ],
+            "url": "https://github.com/ryancahildebrandt/iterate",
             "roles":
             [],
             "tags":

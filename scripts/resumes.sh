@@ -27,21 +27,32 @@ resume_builder () {
 	else
 	cd ../out
 	sed -i ' s|&|\\&|g; s|{aozora_corpus}|{aozora{\\_}corpus}|g' $outfile
-	cp ../templates/deedy-resume.cls ./
-	cp ../templates/deedy-resume_sm.cls ./
 	xelatex $outfile
-	rm deedy-resume.cls
-	rm deedy-resume_sm.cls
 	cd -
 	fi 
 }
 
-echo -n "tag name [*full*|data|japanese|cv]: "
+output_resumes () {
+	format="md"
+	resume_builder
+	format="tex"
+	resume_builder
+}
+
+echo -n "tag name [*full*|data|japanese|cv|all]: "
 read -r tag
 tag="${tag:=full}"
 
-format="md"
-resume_builder
-format="tex"
-resume_builder
-
+if [ $tag == "all" ]
+then
+tag="full"
+output_resumes
+tag="data"
+output_resumes
+tag="japanese"
+output_resumes
+tag="cv"
+output_resumes
+else
+output_resumes
+fi

@@ -1,8 +1,8 @@
 .certifications[] |
 select(.tags[] | contains($tag)) |
 [
-("\\\\textbf{" + .organization + " " + .title + "};"), 
-(.date + ";"),
-(.url + ";")
+("\\\\noindent"),
+("\\\\textbf{" + .organization + " \\\\href{" + .url + "}{"  + .title + "}};"), 
+("\\\\hfill" + .date + ";")
 ] | 
 join("")

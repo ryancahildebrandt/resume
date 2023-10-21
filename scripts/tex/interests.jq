@@ -1,7 +1,8 @@
 .interests[] |
 select(.tags[] | contains($tag)) |
 [
+("\\\\noindent"),
 ("\\\\textbf{" + .name + "};"),
-("Keywords: " + (.keywords | join(" \\\\textbullet{} ")) + ";")
+("\\\\textit{Keywords:} " + (.keywords | join(" - ")) + ";")
 ] | 
 join("")

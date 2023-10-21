@@ -1,7 +1,8 @@
 .languages[] |
 select(.tags[] | contains($tag)) |
 [
-("\\\\subsection{" + .language + ": " + .level + "};"),
-("\\\\textbf{" + (.skills[] | join(": ")) + "};")
+("\\\\noindent"),
+("\\\\textbf{" + .language + ": " + .level + "};"),
+("\\\\textit{" + (.skills[] | join(": ")) + " \\|};")
 ] | 
 join("")

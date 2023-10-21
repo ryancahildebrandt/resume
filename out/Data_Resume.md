@@ -1,6 +1,6 @@
 
 # Ryan Hildebrandt
-### Data Scientist & NLP Practitioner
+### Data Scientist & NLP Specialist
 
 --- 
 
@@ -14,10 +14,9 @@ ryancahildebrandt@gmail.com | Corning, New York
 ## Work Experience
 ### **Senior Engineer: NLP, ML, & Analytics Specialist**
 *TekSystems for Google CCAI*, 2022-06 - Present
-- Design custom analytics pipelines in response to client needs via GCP services
+- Design custom NLP and analytics pipelines in response to client needs via GCP services
 - Engineer solutions including data migration from spreadsheets to BigQuery, data cleaning, KPI tracking, clustering unlabeled free text responses, and training custom models to simplify analytics
 - Coordinate data processing team efforts for labeling datasets, developing classification guidelines, and technical process documentation
-- Build and maintain NLP analytics tools for use on a range of datasets within the CCAI project
 
 ### **Data Designer -- Contract**
 *TekSystems for Google CCAI*, 2021-06 - 2022-06
@@ -36,7 +35,6 @@ ryancahildebrandt@gmail.com | Corning, New York
 - Synthesize tax information from company, mortgage client, and public agency databases in order to resolve tax issues
 - Use knowledge of client and internal company procedures to resolve tax issues in a timely manner
 - Coordinate with team members and leads to resolve assigned tasks efficiently, while continuing to learn new problem solving procedures daily
-- Taking advantage of company trainings in Excel, Access, SQL database management, and Microsoft VBA
 
 ### **Statistics & Data Analysis Tutor**
 *Varsity Tutors*, 2019-09 - 2022-05
@@ -57,7 +55,7 @@ ryancahildebrandt@gmail.com | Corning, New York
 
 ## Skills
 ### **Programming Languages, Tools, & Platforms**
-Keywords: *R, Python, SQL, NoSql, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
+Keywords: *R, Python, Ruby, SQL, NoSql Databases, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
 
 ### **Data Analysis & Statistical Techniques**
 Keywords: *Data manipulation, Data tidying, NLP (sentiment analysis, topic modeling, embedding), Feature engineering, Regresison (linear, logistic, polynomial), Mixed linear modeling, Structural equation modeling, (M)AN(C)OVA, Unsupervised & supervised classification, Principal component analysis & dimensionality reduction*
@@ -86,7 +84,7 @@ Contextual particle frequency in written Japanese, taking a swing at the age old
 Keywords: *Report, Python, Japanese, NLP*
 
 ### **[thesis](https://github.com/ryancahildebrandt/thesis)**
-Scripts and analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm
+Analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm
 Keywords: *Publication, R, Psycholinguistics, Study*
 
 ### **[aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus)**
@@ -112,6 +110,10 @@ Keywords: *Report, Python, NLP, Sentence embedding*
 ### **[bowts](https://github.com/ryancahildebrandt/bowts)**
 An experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation
 Keywords: *Report, Python, NLP, Sentence embedding*
+
+### **[iterate](https://github.com/ryancahildebrandt/iterate)**
+Iterative clustering for sklearn clusterers
+Keywords: *Tools, Python, Clustering, NLP*
 
 ## Languages
 

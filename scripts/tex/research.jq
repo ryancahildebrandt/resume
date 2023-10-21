@@ -1,12 +1,11 @@
 .research[] |
 select(.tags[] | contains($tag)) |
 [
-("\\\\runsubsection{" + .title + "};"), 
-("\\\\location{" + .institution + "};"),
-("\\\\descript{" + .type + "};"),
-("\\\\begin{tightitemize};"),
+("\\\\noindent"),
+("\\\\textbf{" + .title + "};;"), 
+(.institution + " - \\\\textit{" + .type + "};"),
+("\\\\begin{itemize};"),
 ("\\\\item " + .highlights[] + ";"),
-("\\\\end{tightitemize};"),
-("\\\\sectionspace;")
+("\\\\end{itemize};")
 ] | 
 join("")

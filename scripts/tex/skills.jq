@@ -1,7 +1,8 @@
 .skills[] |
 select(.tags[] | contains($tag)) |
 [
-("\\\\subsection{" + .name + "};"), 
-("Keywords: " + (.keywords | join(" \\\\textbullet{} ")) + ";")
+("\\\\noindent"),
+("\\\\textbf{" + .name + ":} "),
+((.keywords | join(" - ")) + ";")
 ] | 
 join("")

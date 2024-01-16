@@ -12,10 +12,10 @@ ryancahildebrandt@gmail.com | Corning, New York
 ---
 
 ## Work Experience
-### **Senior Engineer: NLP, ML, & Analytics Specialist**
+### **Lead Engineer: ML/AI, NLP, & Analytics Specialist**
 *TekSystems for Google CCAI*, 2022-06 - Present
-- Design custom NLP and analytics pipelines in response to client needs via GCP services
-- Engineer solutions including data migration from spreadsheets to BigQuery, data cleaning, KPI tracking, clustering unlabeled free text responses, and training custom models to simplify analytics
+- Design NLP pipelines, analytics tools, and generative AI applications in response to client needs via GCP services
+- Engineer and implement solutions including data migration from spreadsheets to BigQuery, data cleaning, KPI tracking, clustering unlabeled free text responses, and training custom models to simplify analytics
 - Coordinate data processing team efforts for labeling datasets, developing classification guidelines, and technical process documentation
 
 ### **Data Designer -- Contract**
@@ -55,7 +55,7 @@ ryancahildebrandt@gmail.com | Corning, New York
 
 ## Skills
 ### **Programming Languages, Tools, & Platforms**
-Keywords: *R, Python, Ruby, SQL, NoSql Databases, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
+Keywords: *R, Python, Ruby, SQL, NoSql Databases, Vector Databases, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
 
 ### **Data Analysis & Statistical Techniques**
 Keywords: *Data manipulation, Data tidying, NLP (sentiment analysis, topic modeling, embedding), Feature engineering, Regresison (linear, logistic, polynomial), Mixed linear modeling, Structural equation modeling, (M)AN(C)OVA, Unsupervised & supervised classification, Principal component analysis & dimensionality reduction*

@@ -15,7 +15,7 @@ ryancahildebrandt@gmail.com | Corning, New York
 
 ## Skills
 ### **Programming Languages, Tools, & Platforms**
-Keywords: *R, Python, Ruby, SQL, NoSql Databases, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
+Keywords: *R, Python, Ruby, SQL, NoSql Databases, Vector Databases, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
 
 ### **Data Analysis & Statistical Techniques**
 Keywords: *Data manipulation, Data tidying, NLP (sentiment analysis, topic modeling, embedding), Feature engineering, Regresison (linear, logistic, polynomial), Mixed linear modeling, Structural equation modeling, (M)AN(C)OVA, Unsupervised & supervised classification, Principal component analysis & dimensionality reduction*

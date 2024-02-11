@@ -6,7 +6,9 @@
 *.fls
 *.xdv
 *.pdf
+*.odt
 *~
 *backup*
 *.docx
 *etter*
+*.lock

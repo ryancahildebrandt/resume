@@ -1,0 +1,38 @@
+% Document class and font size
+\documentclass[a4paper,9pt]{extarticle}
+
+% Packages
+\usepackage{geometry} % For page margins
+\usepackage{titlesec} % For section title formatting
+\usepackage{enumitem} % For itemized list formatting
+\usepackage{hyperref} % For hyperlinks
+\usepackage{xeCJK}
+
+% Formatting
+\setlist{noitemsep} % Removes item separation
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}[\titlerule] % Section title format
+\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip} % Section title spacing
+\pagestyle{empty} % Disable page numbers
+\setCJKmainfont{Noto Sans CJK JP}
+\setCJKsansfont{Noto Sans CJK JP}
+\geometry{a4paper, margin = 0.5in} % Set paper size and margins
+\renewcommand{\familydefault}{\sfdefault}
+
+% Begin document
+\begin{document}
+
+\begin{center}<%= basics["tex"] %>\end{center}
+
+<%= work["tex"] %>
+<%= skills["tex"] %>
+<%= education["tex"] %>
+<%= volunteer["tex"] %>
+<%= projects["tex"] %>
+<%= languages["tex"] %>
+<%= interests["tex"] %>
+<%= publications["tex"] %>
+<%= certifications["tex"] %>
+<%= research["tex"] %>
+<%= courses["tex"] %>
+
+\end{document}

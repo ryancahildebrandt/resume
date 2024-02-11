@@ -1,14 +1,8 @@
 
 # Ryan Hildebrandt
-### Data Scientist & NLP Specialist
-
---- 
-
-[Github](https://github.com/ryancahildebrandt)
-[LinkedIn](https://linkedin.com/in/rcah)
-[ResearchGate](https://researchgate.net/profile/Ryan-Hildebrandt)
+#[Github](https://github.com/ryancahildebrandt) [LinkedIn](https://linkedin.com/in/rcah) [ResearchGate](https://researchgate.net/profile/Ryan-Hildebrandt)
 ryancahildebrandt@gmail.com | Corning, New York
-
+	
 ---
 
 ## Work Experience
@@ -41,16 +35,16 @@ ryancahildebrandt@gmail.com | Corning, New York
 
 ## Skills
 ### **Language**
-Keywords: *Language teaching, Translation, Linguistic theory, Cultural & educational activities, Natural Language Processing, Multilingual Research*
+*Language teaching, Translation, Linguistic theory, Cultural & educational activities, Natural Language Processing, Multilingual Research*
 
 ## Education
-### **Rochester Institute of Technology**
+### Rochester Institute of Technology
 *Graduate - Experimental Psychology*, 2018-01 - 2019-12
 
-### **Colgate University**
+### Colgate University
 *Undergraduate - Japanese & Psychology*, 2013-08 - 2017-05
 
-### **Kyoto Japanese Language School**
+### Kyoto Japanese Language School
 *Semester-long Language Study - Japanese*, 2014-08 - 2014-12
 
 ## Volunteer Work
@@ -66,46 +60,45 @@ Keywords: *Language teaching, Translation, Linguistic theory, Cultural & educati
 - Communicate in Japanese with staff and other assistants to conduct conversatory operations
 
 ## Projects
-### **[particles](https://github.com/ryancahildebrandt/particles)**
+### **[particles(https://github.com/ryancahildebrandt/particles)]**
 Contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が
 Keywords: *Report, Python, Japanese, NLP*
 
-### **[thesis](https://github.com/ryancahildebrandt/thesis)**
+### **[thesis(https://github.com/ryancahildebrandt/thesis)]**
 Analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm
 Keywords: *Publication, R, Psycholinguistics, Study*
 
-### **[aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus)**
+### **[aozora_corpus(https://github.com/ryancahildebrandt/aozora_corpus)]**
 A compilation of Japanese texts pulled from 青空文庫
 Keywords: *Corpus, R, Japanese, Literature*
 
-### **[hanakotoba](https://github.com/ryancahildebrandt/hanakotoba)**
+### **[hanakotoba(https://github.com/ryancahildebrandt/hanakotoba)]**
 Looking at the use of 花言葉 in literature 
 Keywords: *Report, Python, Japanese, Literature*
 
-### **[embs](https://github.com/ryancahildebrandt/embs)**
+### **[embs(https://github.com/ryancahildebrandt/embs)]**
 Tools streamlining sentence embedding or clustering techniques
 Keywords: *Application, Report, Python, NLP*
 
-### **[siftr](https://github.com/ryancahildebrandt/siftr)**
+### **[siftr(https://github.com/ryancahildebrandt/siftr)]**
 Shiny app using SIF sentence embeddings to separate out unwanted text data
 Keywords: *Application, R, NLP, Sentence embedding*
 
-### **[priors](https://github.com/ryancahildebrandt/priors)**
+### **[priors(https://github.com/ryancahildebrandt/priors)]**
 An experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge
 Keywords: *Report, Python, NLP, Sentence embedding*
 
-### **[bowts](https://github.com/ryancahildebrandt/bowts)**
+### **[bowts(https://github.com/ryancahildebrandt/bowts)]**
 An experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation
 Keywords: *Report, Python, NLP, Sentence embedding*
 
-### **[iterate](https://github.com/ryancahildebrandt/iterate)**
+### **[iterate(https://github.com/ryancahildebrandt/iterate)]**
 Iterative clustering for sklearn clusterers
 Keywords: *Tools, Python, Clustering, NLP*
 
 ## Languages
-### **English: Native**
-
-### **Japanese: CEFR B2**
+#
+### **Japanese: CEFR B2** 
 *Conversational: Advanced High*
 *Compositional - Spoken: Advanced Mid*
 *Compositional - Written: Intermediate High*
@@ -122,20 +115,14 @@ Keywords: *Language acquisition, L2 phoneme processing*
 ### **Natural Language Processing**
 Keywords: *Word & sentence embedding, Unsupervised learning, Document classification*
 
-## Publications & Presentations
-
-## Certifications
-
 ## Research Experience
-### Integration of Visual Cues When Reproducing Novel L2 Phonemes
+### **Integration of Visual Cues When Reproducing Novel L2 Phonemes**
 Colgate University
 Undergraduate Thesis
 - Assessing how visual cues impact how accurately English speakers reproduce Japanese long vowels and geminate consonants
 
-### Synthesis of English & Japanese Research on the McGurk Effect
+### **Synthesis of English & Japanese Research on the McGurk Effect**
 Colgate University
 Independent Research Grant
 - Translating and synthesizing English and Japanese scientific literature for use in my thesis study through a student research grant awarded by Colgate University
-
-## Coursework
 

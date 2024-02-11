@@ -1,14 +1,8 @@
 
 # Ryan Hildebrandt
-### Data Scientist & NLP Specialist
-
---- 
-
-[Github](https://github.com/ryancahildebrandt)
-[LinkedIn](https://linkedin.com/in/rcah)
-[ResearchGate](https://researchgate.net/profile/Ryan-Hildebrandt)
+#[Github](https://github.com/ryancahildebrandt) [LinkedIn](https://linkedin.com/in/rcah) [ResearchGate](https://researchgate.net/profile/Ryan-Hildebrandt)
 ryancahildebrandt@gmail.com | Corning, New York
-
+	
 ---
 
 ## Work Experience
@@ -55,67 +49,63 @@ ryancahildebrandt@gmail.com | Corning, New York
 
 ## Skills
 ### **Programming Languages, Tools, & Platforms**
-Keywords: *R, Python, Ruby, SQL, NoSql Databases, Vector Databases, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
+*R, Python, Ruby, SQL, NoSql Databases, Vector Databases, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
 
 ### **Data Analysis & Statistical Techniques**
-Keywords: *Data manipulation, Data tidying, NLP (sentiment analysis, topic modeling, embedding), Feature engineering, Regresison (linear, logistic, polynomial), Mixed linear modeling, Structural equation modeling, (M)AN(C)OVA, Unsupervised & supervised classification, Principal component analysis & dimensionality reduction*
+*Data manipulation, Data tidying, NLP (sentiment analysis, topic modeling, embedding), Feature engineering, Regresison (linear, logistic, polynomial), Mixed linear modeling, Structural equation modeling, (M)AN(C)OVA, Unsupervised & supervised classification, Principal component analysis & dimensionality reduction*
 
 ### **Data & Statistics Software**
-Keywords: *SPSS, Tableau, Excel, Microsoft Access, Google Data Studio, KNIME, JASP, jamovi, RStudio, Spyder, MiniTab, Amazon MTurk, Qualtrics, MongoDB, Power BI, Looker, BigQuery*
+*SPSS, Tableau, Excel, Microsoft Access, Google Data Studio, KNIME, JASP, jamovi, RStudio, Spyder, MiniTab, Amazon MTurk, Qualtrics, MongoDB, Power BI, Looker, BigQuery*
 
 ### **Research Skills**
-Keywords: *Experimental design, Survey design, Data collection, Literature review, Data analysis, Data visualization, Research presentation, Human subjects research, IRB compliance, Scientific writing, Academic writing*
+*Experimental design, Survey design, Data collection, Literature review, Data analysis, Data visualization, Research presentation, Human subjects research, IRB compliance, Scientific writing, Academic writing*
 
 ## Education
-### **Rochester Institute of Technology**
+### Rochester Institute of Technology
 *Graduate - Experimental Psychology*, 2018-01 - 2019-12
 
-### **Colgate University**
+### Colgate University
 *Undergraduate - Japanese & Psychology*, 2013-08 - 2017-05
 
-### **Kyoto Japanese Language School**
+### Kyoto Japanese Language School
 *Semester-long Language Study - Japanese*, 2014-08 - 2014-12
 
-## Volunteer Work
-
 ## Projects
-### **[particles](https://github.com/ryancahildebrandt/particles)**
+### **[particles(https://github.com/ryancahildebrandt/particles)]**
 Contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が
 Keywords: *Report, Python, Japanese, NLP*
 
-### **[thesis](https://github.com/ryancahildebrandt/thesis)**
+### **[thesis(https://github.com/ryancahildebrandt/thesis)]**
 Analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm
 Keywords: *Publication, R, Psycholinguistics, Study*
 
-### **[aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus)**
+### **[aozora_corpus(https://github.com/ryancahildebrandt/aozora_corpus)]**
 A compilation of Japanese texts pulled from 青空文庫
 Keywords: *Corpus, R, Japanese, Literature*
 
-### **[hanakotoba](https://github.com/ryancahildebrandt/hanakotoba)**
+### **[hanakotoba(https://github.com/ryancahildebrandt/hanakotoba)]**
 Looking at the use of 花言葉 in literature 
 Keywords: *Report, Python, Japanese, Literature*
 
-### **[embs](https://github.com/ryancahildebrandt/embs)**
+### **[embs(https://github.com/ryancahildebrandt/embs)]**
 Tools streamlining sentence embedding or clustering techniques
 Keywords: *Application, Report, Python, NLP*
 
-### **[siftr](https://github.com/ryancahildebrandt/siftr)**
+### **[siftr(https://github.com/ryancahildebrandt/siftr)]**
 Shiny app using SIF sentence embeddings to separate out unwanted text data
 Keywords: *Application, R, NLP, Sentence embedding*
 
-### **[priors](https://github.com/ryancahildebrandt/priors)**
+### **[priors(https://github.com/ryancahildebrandt/priors)]**
 An experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge
 Keywords: *Report, Python, NLP, Sentence embedding*
 
-### **[bowts](https://github.com/ryancahildebrandt/bowts)**
+### **[bowts(https://github.com/ryancahildebrandt/bowts)]**
 An experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation
 Keywords: *Report, Python, NLP, Sentence embedding*
 
-### **[iterate](https://github.com/ryancahildebrandt/iterate)**
+### **[iterate(https://github.com/ryancahildebrandt/iterate)]**
 Iterative clustering for sklearn clusterers
 Keywords: *Tools, Python, Clustering, NLP*
-
-## Languages
 
 ## Research Interests
 ### **Speech Processing (EN & JP)**
@@ -127,14 +117,10 @@ Keywords: *Language acquisition, L2 phoneme processing*
 ### **Natural Language Processing**
 Keywords: *Word & sentence embedding, Unsupervised learning, Document classification*
 
-## Publications & Presentations
-
 ## Certifications
 ### Google Cloud Associate Cloud Engineer
 2023-04
 https://google.accredible.com/d3ef369f-9c2c-486a-bda6-943a74f70dff
-
-## Research Experience
 
 ## Coursework
 ### Data Science & Statistics

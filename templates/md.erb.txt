@@ -1,0 +1,13 @@
+<%= basics["md"] %>
+---
+<%= work["md"] %>
+<%= skills["md"] %>
+<%= education["md"] %>
+<%= volunteer["md"] %>
+<%= projects["md"] %>
+<%= languages["md"] %>
+<%= interests["md"] %>
+<%= publications["md"] %>
+<%= certifications["md"] %>
+<%= research["md"] %>
+<%= courses["md"] %>

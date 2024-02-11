@@ -218,7 +218,7 @@ def process_single_resume(tag)
 		"md" => "
 ## Projects
 #{resume["projects"].map{|i| 
-"### **[#{i["name"]}(#{i["url"]})]**
+"### **[#{i["name"]}](#{i["url"]})**
 #{i["description"]}
 Keywords: *#{i["keywords"].map{|k| "#{k}"}.join(", ")}*
 "}.join("\n")}",

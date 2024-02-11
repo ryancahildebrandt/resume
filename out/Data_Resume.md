@@ -71,39 +71,39 @@ ryancahildebrandt@gmail.com | Corning, New York
 *Semester-long Language Study - Japanese*, 2014-08 - 2014-12
 
 ## Projects
-### **[particles(https://github.com/ryancahildebrandt/particles)]**
+### **[particles](https://github.com/ryancahildebrandt/particles)**
 Contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が
 Keywords: *Report, Python, Japanese, NLP*
 
-### **[thesis(https://github.com/ryancahildebrandt/thesis)]**
+### **[thesis](https://github.com/ryancahildebrandt/thesis)**
 Analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm
 Keywords: *Publication, R, Psycholinguistics, Study*
 
-### **[aozora_corpus(https://github.com/ryancahildebrandt/aozora_corpus)]**
+### **[aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus)**
 A compilation of Japanese texts pulled from 青空文庫
 Keywords: *Corpus, R, Japanese, Literature*
 
-### **[hanakotoba(https://github.com/ryancahildebrandt/hanakotoba)]**
+### **[hanakotoba](https://github.com/ryancahildebrandt/hanakotoba)**
 Looking at the use of 花言葉 in literature 
 Keywords: *Report, Python, Japanese, Literature*
 
-### **[embs(https://github.com/ryancahildebrandt/embs)]**
+### **[embs](https://github.com/ryancahildebrandt/embs)**
 Tools streamlining sentence embedding or clustering techniques
 Keywords: *Application, Report, Python, NLP*
 
-### **[siftr(https://github.com/ryancahildebrandt/siftr)]**
+### **[siftr](https://github.com/ryancahildebrandt/siftr)**
 Shiny app using SIF sentence embeddings to separate out unwanted text data
 Keywords: *Application, R, NLP, Sentence embedding*
 
-### **[priors(https://github.com/ryancahildebrandt/priors)]**
+### **[priors](https://github.com/ryancahildebrandt/priors)**
 An experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge
 Keywords: *Report, Python, NLP, Sentence embedding*
 
-### **[bowts(https://github.com/ryancahildebrandt/bowts)]**
+### **[bowts](https://github.com/ryancahildebrandt/bowts)**
 An experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation
 Keywords: *Report, Python, NLP, Sentence embedding*
 
-### **[iterate(https://github.com/ryancahildebrandt/iterate)]**
+### **[iterate](https://github.com/ryancahildebrandt/iterate)**
 Iterative clustering for sklearn clusterers
 Keywords: *Tools, Python, Clustering, NLP*
 

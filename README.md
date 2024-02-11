@@ -3,7 +3,7 @@
 ### Full [resume](https://github.com/ryancahildebrandt/resume/blob/master/out/Full_Resume.md), encompassing:
 ### Japanese focused [resume](https://github.com/ryancahildebrandt/resume/blob/master/out/Japanese_Resume.md)
 ### Data science/statistics focused [resume](https://github.com/ryancahildebrandt/resume/blob/master/out/Data_Resume.md)
-### Academic [CV](https://github.com/ryancahildebrandt/resume/blob/master/out/Cv.md)
+### Academic [CV](https://github.com/ryancahildebrandt/resume/blob/master/out/CV.md)
 
 ---
 

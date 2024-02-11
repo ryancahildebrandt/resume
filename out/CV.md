@@ -1,6 +1,8 @@
 
 # Ryan Hildebrandt
-#[Github](https://github.com/ryancahildebrandt) [LinkedIn](https://linkedin.com/in/rcah) [ResearchGate](https://researchgate.net/profile/Ryan-Hildebrandt)
+
+[Github](https://github.com/ryancahildebrandt) [LinkedIn](https://linkedin.com/in/rcah) [ResearchGate](https://researchgate.net/profile/Ryan-Hildebrandt)
+
 ryancahildebrandt@gmail.com | Corning, New York
 	
 ---

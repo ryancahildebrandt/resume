@@ -64,9 +64,9 @@ def process_single_resume(tag)
 	basics = {
 		"md" => "
 # #{resume["basics"]["name"]}
-### #{resume["basics"]["label"]}
 
 #{resume["basics"]["profiles"].map{|i| "[#{i["network"]}](#{i["url"]})"}.join(" ")}
+
 #{resume["basics"]["email"]} | #{resume["basics"]["location"]["city"]}, #{resume["basics"]["location"]["region"]}
 	",
 		"tex" => "

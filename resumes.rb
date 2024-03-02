@@ -7,7 +7,7 @@
 # imports
 require_relative "utils"
 
-puts "tag name [*full*|data|japanese|cv|all]: "
+puts "tag name [*full*|data|japanese|cv|all]:"
 tag = gets.chomp
 
 if tag == "all"
@@ -15,10 +15,9 @@ if tag == "all"
 	process_single_resume("data")
 	process_single_resume("cv")
 	process_single_resume("japanese")
+elsif tag == ""
+	tag = "full"
+	process_single_resume(tag)
 else
 	process_single_resume(tag)
 end
-
-
-
-

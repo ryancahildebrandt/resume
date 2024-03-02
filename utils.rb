@@ -14,11 +14,6 @@ def strip_newlines(in_text)
 	return in_text.gsub(/\R{2,}/, "\n\n")
 end
 
-def remove_empty_sections(in_text)
-	
-	return out
-end
-
 def prep_md(in_text)
 	out = in_text
 	#empty english skills
@@ -39,7 +34,6 @@ def prep_tex(in_text)
 	#empty english skills
 	out = out.gsub("\\textit{: }", "")
 	#empty sections
-	#		 .gsub(/(?<=\d+)(,)(?=\d+)/, '.')
 	out = out.gsub(/(^\\section.*$\R+)(^\\section.*$)/, "\\2")
 	#newlines last
 	out = strip_newlines(out)
@@ -81,8 +75,8 @@ def process_single_resume(tag)
 		"md" => "
 ## Work Experience
 #{resume["work"].map{|i| 
-"### **#{i["position"]}**
-*#{i["company"]}*, #{i["startDate"]} - #{i["endDate"]}
+"**#{i["position"]}**\n
+*#{i["company"]}*, #{i["startDate"]} - #{i["endDate"]}\n
 #{i["highlights"].map{|h| "- #{h}"}.join("\n")}
 "}.join("\n")}",
 		"tex" => "
@@ -103,7 +97,8 @@ def process_single_resume(tag)
 		"md" => "
 ## Skills
 #{resume["skills"].map{|i| 
-"### **#{i["name"]}**
+"**#{i["name"]}**
+
 *#{i["keywords"].join(", ")}*
 "}.join("\n")}",
 		"tex" => "
@@ -120,9 +115,7 @@ def process_single_resume(tag)
 		"md" => "
 ## Research Experience
 #{resume["research"].map{|i| 
-"### **#{i["title"]}**
-#{i["institution"]}
-#{i["type"]}
+"**#{i["title"]}** - *#{i["institution"]} - #{i["type"]}*\n
 #{i["highlights"].map{|h| "- #{h}"}.join("\n")}
 "}.join("\n")}",
 		"tex" => "
@@ -142,10 +135,7 @@ def process_single_resume(tag)
 		"md" => "
 ## Publications & Presentations
 #{resume["publications"].map{|i| 
-"### #{i["name"]}, #{i["releaseDate"]}
-#{i["publisher"]}
-#{i["authors"]}
-#{i["website"]}
+"**#{i["name"]}, #{i["releaseDate"]}.**, #{i["publisher"]}, #{i["authors"]}, #{i["website"]}
 "}.join("\n")}",
 		"tex" => "
 \\section*{Publications & Presentations}
@@ -162,9 +152,8 @@ def process_single_resume(tag)
 		"md" => "
 ## Languages
 #{resume["languages"].map{|i| 
-"### **#{i["language"]}: #{i["level"]}** 
-#{i["skills"].map{|s| "*#{s["name"]}: #{s["level"]}*"}.join("\n")}
-"}.join("\n")}",
+"**#{i["language"]}: #{i["level"]}**\n
+#{i["skills"].map{|s| "*#{s["name"]}: #{s["level"]}*  "}.join("\n")}"}.join("\n")}",
 		"tex" => "
 \\section*{Languages}
 #{resume["languages"].map{|i| 
@@ -179,8 +168,7 @@ def process_single_resume(tag)
 		"md" => "
 ## Education
 #{resume["education"].map{|i| 
-"### #{i["institution"]}
-*#{i["studyType"]} - #{i["area"]}*, #{i["startDate"]} - #{i["endDate"]}
+"**#{i["institution"]}** - *#{i["studyType"]} - #{i["area"]}*, #{i["startDate"]} - #{i["endDate"]}
 "}.join("\n")}",
 		"tex" => "
 \\section*{Education}
@@ -196,8 +184,7 @@ def process_single_resume(tag)
 		"md" => "
 ## Volunteer Work
 #{resume["volunteer"].map{|i| 
-"### **#{i["position"]}**
-*#{i["organization"]}*, #{i["startDate"]} - #{i["endDate"]}
+"**#{i["position"]}** - *#{i["organization"]}*, #{i["startDate"]} - #{i["endDate"]}\n
 #{i["highlights"].map{|h| "- #{h}"}.join("\n")}
 "}.join("\n")}",
 		"tex" => "
@@ -218,9 +205,8 @@ def process_single_resume(tag)
 		"md" => "
 ## Projects
 #{resume["projects"].map{|i| 
-"### **[#{i["name"]}](#{i["url"]})**
-#{i["description"]}
-Keywords: *#{i["keywords"].map{|k| "#{k}"}.join(", ")}*
+"***[#{i["name"]}](#{i["url"]})***: #{i["description"]}  
+**Keywords:** *#{i["keywords"].map{|k| "#{k}"}.join(", ")}*
 "}.join("\n")}",
 		"tex" => "
 \\section*{Projects}
@@ -237,8 +223,8 @@ Keywords: #{i["keywords"].map{|k| "#{k}"}.join(", ")}
 		"md" => "
 ## Research Interests
 #{resume["interests"].map{|i| 
-"### **#{i["name"]}**
-Keywords: *#{i["keywords"].map{|k| "#{k}"}.join(", ")}*
+"**#{i["name"]}**  
+**Keywords:** *#{i["keywords"].map{|k| "#{k}"}.join(", ")}*
 "}.join("\n")}",
 		"tex" => "
 \\section*{Research Interests}
@@ -254,9 +240,7 @@ Keywords: #{i["keywords"].map{|k| "#{k}"}.join(", ")}
 		"md" => "
 ## Certifications
 #{resume["certifications"].map{|i| 
-"### #{i["organization"]} #{i["title"]}
-#{i["date"]}
-#{i["url"]}
+"[**#{i["organization"]} #{i["title"]}**](#{i["url"]}) #{i["date"]}
 "}.join("\n")}",
 		"tex" => "
 \\section*{Certifications}
@@ -271,8 +255,8 @@ Keywords: #{i["keywords"].map{|k| "#{k}"}.join(", ")}
 		"md" => "
 ## Coursework
 #{resume["courses"].map{|i| 
-"### #{i["category"]}
-Courses: *#{i["keywords"].map{|k| "#{k}"}.join(", ")}*
+"**#{i["category"]}**  
+**Courses:** *#{i["keywords"].map{|k| "#{k}"}.join(", ")}*
 "}.join("\n")}",
 		"tex" => "
 \\section*{Coursework}
@@ -303,6 +287,9 @@ Keywords: #{i["keywords"].map{|k| "#{k}"}.join(", ")}
 
 	File.open("#{outfile}.docx", "w+").write(PandocRuby.new(md_out, :standalone).to_docx)
 	puts "#{outfile}.docx written successfully"
+
+	File.open("#{outfile}.html", "w+").write(PandocRuby.new(md_out, :standalone).to_html)
+	puts "#{outfile}.html written successfully"
 
 	tex_template = File.read("templates/tex.erb.txt")
 	tex_out = ERB.new(tex_template).result(binding)

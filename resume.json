@@ -836,29 +836,6 @@
             ]
         },
         {
-            "name": "hanakotoba",
-            "description": "Looking at the use of 花言葉 in literature ",
-            "highlights":
-            [],
-            "keywords":
-            [
-                "Report",
-                "Python",
-                "Japanese",
-                "Literature"
-            ],
-            "url": "https://github.com/ryancahildebrandt/hanakotoba",
-            "roles":
-            [],
-            "tags":
-            [
-                "full",
-                "cv",
-                "data",
-                "japanese"
-            ]
-        },
-        {
             "name": "embs",
             "description": "Tools streamlining sentence embedding or clustering techniques",
             "highlights":

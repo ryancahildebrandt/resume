@@ -160,7 +160,7 @@ def process_single_resume(tag)
 "
 \\noindent
 \\textbf{#{i["language"]}: #{i["level"]}}
-#{i["skills"].map{|s| "\\textit{#{s["name"]}: #{s["level"]}}"}.join("\n")}
+#{i["skills"].map{|s| "\\textit{#{s["name"]}: #{s["level"]}}\n"}.join("\n")}
 "}.join("\n")}"
 	}
 

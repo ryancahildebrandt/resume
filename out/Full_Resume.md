@@ -10,7 +10,7 @@ ryancahildebrandt@gmail.com | Corning, New York
 ## Work Experience
 **Lead Engineer: ML/AI, NLP, & Analytics Specialist**
 
-*TekSystems for Google CCAI & Meta AI*, 2022-06 - Present
+*TekSystems for Google CCAI*, 2022-06 - Present
 
 - Design NLP pipelines, analytics tools, and generative AI applications in response to client needs via GCP services
 - Engineer and implement solutions including data migration from spreadsheets to BigQuery, data cleaning, KPI tracking, clustering unlabeled free text responses, and training custom models to simplify analytics

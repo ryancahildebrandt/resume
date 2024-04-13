@@ -112,6 +112,9 @@ ryancahildebrandt@gmail.com | Corning, New York
 ***[iterate](https://github.com/ryancahildebrandt/iterate)***: Iterative clustering for sklearn clusterers  
 **Keywords:** *Tools, Python, Clustering, NLP*
 
+***[topics](https://github.com/ryancahildebrandt/topics)***: Experiments and utilities for text topic extraction using decision trees  
+**Keywords:** *Tools, Python, Clustering, NLP*
+
 ## Research Interests
 **Speech Processing (EN & JP)**  
 **Keywords:** *Speech intelligibility, Phonology, Emotional word characteristics*

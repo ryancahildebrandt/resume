@@ -949,6 +949,29 @@
                 "data",
                 "japanese"
             ]
+        },
+        {
+            "name": "topics",
+            "description": "Experiments and utilities for text topic extraction using decision trees",
+            "highlights":
+            [],
+            "keywords":
+            [
+                "Tools",
+                "Python",
+                "Clustering",
+                "NLP"
+            ],
+            "url": "https://github.com/ryancahildebrandt/topics",
+            "roles":
+            [],
+            "tags":
+            [
+                "full",
+                "cv",
+                "data",
+                "japanese"
+            ]
         }
     ]
 }

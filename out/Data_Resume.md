@@ -8,9 +8,17 @@ ryancahildebrandt@gmail.com | Corning, New York
 ---
 
 ## Work Experience
+**Senior CCAI Engineer: ML/AI & NLP Specialist**
+
+*Botcopy*, 2024-06 - Present
+
+- Engineer NLP analytics pipelines to extract insights from conversational data and improve on Google's native analytics
+- Test and evaluate generative models for use across conversational agents, aligning model characteristics with client requirements
+- Build, deploy, and optimize both sateful and generative Google CCAI agents in line with client needs
+
 **Lead Engineer: ML/AI, NLP, & Analytics Specialist**
 
-*TekSystems for Google CCAI*, 2022-06 - Present
+*TekSystems for Google CCAI*, 2022-06 - 2024-06
 
 - Design NLP pipelines, analytics tools, and generative AI applications in response to client needs via GCP services
 - Engineer and implement solutions including data migration from spreadsheets to BigQuery, data cleaning, KPI tracking, clustering unlabeled free text responses, and training custom models to simplify analytics
@@ -66,7 +74,7 @@ ryancahildebrandt@gmail.com | Corning, New York
 ## Skills
 **Programming Languages, Tools, & Platforms**
 
-*R, Python, Ruby, SQL, NoSql Databases, Vector Databases, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
+*R, Python, Ruby, SQL, Golang, NoSql Databases, Vector Databases, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
 
 **Data Analysis & Statistical Techniques**
 

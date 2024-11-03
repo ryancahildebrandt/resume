@@ -10,7 +10,7 @@ ryancahildebrandt@gmail.com | Corning, New York
 ## Skills
 **Programming Languages, Tools, & Platforms**
 
-*R, Python, Ruby, SQL, NoSql Databases, Vector Databases, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
+*R, Python, Ruby, SQL, Golang, NoSql Databases, Vector Databases, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
 
 **Data Analysis & Statistical Techniques**
 

@@ -993,6 +993,52 @@
 				"data",
 				"japanese"
 			]
+		},
+		{
+			"name": "nlt",
+			"description": "Representing tabular data in natural language",
+			"highlights":
+			[],
+			"keywords":
+			[
+				"Tools",
+				"Go",
+				"RAG",
+				"NLP"
+			],
+			"url": "https://github.com/ryancahildebrandt/nlt",
+			"roles":
+			[],
+			"tags":
+			[
+				"full",
+				"cv",
+				"data",
+				"japanese"
+			]
+		},
+		{
+			"name": "gsgf",
+			"description": "Generating natural language expressions from JSGF",
+			"highlights":
+			[],
+			"keywords":
+			[
+				"Tools",
+				"Go",
+				"Application",
+				"NLP"
+			],
+			"url": "https://github.com/ryancahildebrandt/gsgf",
+			"roles":
+			[],
+			"tags":
+			[
+				"full",
+				"cv",
+				"data",
+				"japanese"
+			]
 		}
 	]
 }

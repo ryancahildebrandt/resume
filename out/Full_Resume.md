@@ -160,6 +160,12 @@ ryancahildebrandt@gmail.com | Corning, New York
 ***[topics](https://github.com/ryancahildebrandt/topics)***: Experiments and utilities for text topic extraction using decision trees  
 **Keywords:** *Tools, Python, Clustering, NLP*
 
+***[nlt](https://github.com/ryancahildebrandt/nlt)***: Representing tabular data in natural language  
+**Keywords:** *Tools, Go, RAG, NLP*
+
+***[gsgf](https://github.com/ryancahildebrandt/gsgf)***: Generating natural language expressions from JSGF  
+**Keywords:** *Tools, Go, Application, NLP*
+
 ## Languages
 **English: Native**
 

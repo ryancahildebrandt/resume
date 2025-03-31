@@ -1,3 +1,4 @@
+[![This project contains 0% LLM-generated content](https://brainmade.org/88x31-dark.png)](https://brainmade.org/)
 # Ryan Hildebrandt, MS
 
 ### Full [resume](https://github.com/ryancahildebrandt/resume/blob/master/out/Full_Resume.md), encompassing:

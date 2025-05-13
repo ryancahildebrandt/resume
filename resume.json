@@ -1,1044 +1,652 @@
 {
-	"basics":
-	{
-		"name": "Ryan Hildebrandt",
-		"label": "Data Scientist & NLP Specialist",
-		"summary": "Broadly, I'm an interdisciplinary data scientist with special interests in psycholinguistics, computational linguistics, statistics, and Japanese. More specifically, I apply statistical and natural language processing techniques to solve problems and enrich my and my team's understanding of whatever data is at hand. I bring a strong statistical emphasis to my work, whether in the form of data handling, ad-hoc statistical analyses, or machine learning applications",
-		"website": "",
-		"phone": "",
-		"email": "ryancahildebrandt@gmail.com",
-		"picture": "",
-		"location":
-		{
-			"address": "",
-			"postalCode": "",
-			"city": "Corning",
-			"countryCode": "USA",
-			"region": "New York"
-		},
-		"profiles":
-		[
-			{
-				"network": "Github",
-				"username": "ryancahildebrandt",
-				"url": "https://github.com/ryancahildebrandt"
-			},
-			{
-				"network": "LinkedIn",
-				"username": "rcah",
-				"url": "https://linkedin.com/in/rcah"
-			},
-			{
-				"network": "ResearchGate",
-				"username": "Ryan Hildebrandt",
-				"url": "https://researchgate.net/profile/Ryan-Hildebrandt"
-			}
-		],
-		"tags":
-		[
-			"full",
-			"data",
-			"japanese",
-			"cv"
-		]
-	},
-	"work":
-	[
-		{
-			"company": "Botcopy",
-			"website": "",
-			"position": "Senior CCAI Engineer: ML/AI & NLP Specialist",
-			"startDate": "2024-06",
-			"endDate": "Present",
-			"summary": "",
-			"highlights":
-			[
-				"Engineer NLP analytics pipelines to extract insights from conversational data and improve on Google's native analytics",
-				"Test and evaluate generative models for use across conversational agents, aligning model characteristics with client requirements",
-				"Build, deploy, and optimize both sateful and generative Google CCAI agents in line with client needs"
-			],
-			"tags": 
-			[
-				"full",
-				"data"
-			]
-
-		},
-		{
-			"company": "TekSystems for Google CCAI",
-			"website": "",
-			"position": "Lead Engineer: ML/AI, NLP, & Analytics Specialist",
-			"startDate": "2022-06",
-			"endDate": "2024-06",
-			"summary": "",
-			"highlights":
-			[
-				"Design NLP pipelines, analytics tools, and generative AI applications in response to client needs via GCP services",
-				"Engineer and implement solutions including data migration from spreadsheets to BigQuery, data cleaning, KPI tracking, clustering unlabeled free text responses, and training custom models to simplify analytics",
-				"Coordinate data processing team efforts for labeling datasets, developing classification guidelines, and technical process documentation"
-			],
-			"tags":
-			[
-				"full",
-				"data"
-			]
-		},
-		{
-			"company": "TekSystems for Google CCAI",
-			"website": "",
-			"position": "Data Designer -- Contract",
-			"startDate": "2021-06",
-			"endDate": "2022-06",
-			"summary": "",
-			"highlights":
-			[
-				"Apply statistical and machine learning techniques to analyze client data",
-				"Generate insights from analyzed data to make recommendations for product improvements",
-				"Design, build, and maintain Google CCAI agents for client-specific use cases as well as NLP experiments"
-			],
-			"tags":
-			[
-				"full",
-				"data"
-			]
-		},
-		{
-			"company": "Cerence, Inc.",
-			"website": "",
-			"position": "Japanese Natural Language Understanding Specialist -- Contract",
-			"startDate": "2020-11",
-			"endDate": "2021-04",
-			"summary": "",
-			"highlights":
-			[
-				"Extend NLU grammars used for speech recognition models with necessary labels and semantic tags",
-				"Analyze and correct errors in NLU machine learning model output in an accurate and timely manner",
-				"Localize English NLU resources into Japanese for use by a variety of global automakers in intent classification and semantic labeling"
-			],
-			"tags":
-			[
-				"full",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"company": "CoreLogic",
-			"website": "",
-			"position": "Senior Operations Associate",
-			"startDate": "2020-02",
-			"endDate": "2020-08",
-			"summary": "",
-			"highlights":
-			[
-				"Synthesize tax information from company, mortgage client, and public agency databases in order to resolve tax issues",
-				"Use knowledge of client and internal company procedures to resolve tax issues in a timely manner",
-				"Coordinate with team members and leads to resolve assigned tasks efficiently, while continuing to learn new problem solving procedures daily"
-			],
-			"tags":
-			[
-				"full",
-				"data"
-			]
-		},
-		{
-			"company": "Varsity Tutors",
-			"website": "",
-			"position": "Statistics & Data Analysis Tutor",
-			"startDate": "2019-09",
-			"endDate": "2022-05",
-			"summary": "",
-			"highlights":
-			[
-				"Online tutoring for high school, undergraduate, and graduate level students",
-				"Specializing in statistics and data analysis using R, Python, and SPSS",
-				"Additional tutoring in Japanese, social science research design, and academic writing"
-			],
-			"tags":
-			[
-				"full",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"company": "Rochester Institute of Technology",
-			"website": "",
-			"position": "Statistics & Psychology Tutor",
-			"startDate": "2019-09",
-			"endDate": "2020-01",
-			"summary": "",
-			"highlights":
-			[
-				"In person tutoring for undergraduate and graduate level students",
-				"Specializing in statistics and psychological research using R and SPSS"
-			],
-			"tags":
-			[
-				"full",
-				"data"
-			]
-		},
-		{
-			"company": "Rochester Institute of Technology",
-			"website": "",
-			"position": "Research & Teaching Assistant",
-			"startDate": "2018-01",
-			"endDate": "2020-02",
-			"summary": "",
-			"highlights":
-			[
-				"Oversee several psychology research studies from literature review through data collection, manipulation, analysis, and presentation",
-				"Utilize R, Python, SPSS, Tableau, and Qualtrics to complete the various stages of research",
-				"Apply knowledge of research best practices, data management, and statistics to ensure integrity and accuracy of all stages of research"
-			],
-			"tags":
-			[
-				"full",
-				"data"
-			]
-		},
-		{
-			"company": "Concordia Language Villages",
-			"website": "",
-			"position": "Japanese Language & Cultural Activities Instructor, Academic Year Program",
-			"startDate": "2020-09",
-			"endDate": "2021-04",
-			"summary": "",
-			"highlights":
-			[
-				"Teach Japanese language classes for high school credit, working with students ranging from beginner to intermediate-advanced level",
-				"Lead virtual Japanese cultural activities including cooking, tea ceremony, and calligraphy as a part of CLV's academic year programs"
-			],
-			"tags":
-			[
-				"full",
-				"japanese"
-			]
-		},
-		{
-			"company": "Concordia Language Villages",
-			"website": "",
-			"position": "Japanese High-School Credit Teacher, Summer Session",
-			"startDate": "2017-07",
-			"endDate": "2019-08",
-			"summary": "",
-			"highlights":
-			[
-				"Teach daily Japanese language classes for students ranging from beginner to ~300 level Japanese, including curriculum structuring, lesson planning, student assessments, and a range of activities and projects to showcase student outcomes",
-				"Classes take place over 4 weeks as a part of CLV's Accredited high school credit Summer programs, equivalent to one academic year of instruction totaling 180 hours when combined with other immersion activities at the camp"
-			],
-			"tags":
-			[
-				"full",
-				"japanese"
-			]
-		},
-		{
-			"company": "Concordia Language Villages",
-			"website": "",
-			"position": "Summer Camp Counselor",
-			"startDate": "2015-07",
-			"endDate": "2016-08",
-			"summary": "",
-			"highlights":
-			[
-				"Collaborate with other counseling staff to run Mori No Ike Japanese Language Immersion Camp for a period of four to five weeks, working with children and students ages 8 to 18",
-				"Create original daily programming and camp activities entirely in Japanese, including language instruction, dance, cultural activities, and educational presentations"
-			],
-			"tags":
-			[
-				"full",
-				"japanese"
-			]
-		}
-	],
-	"education":
-	[
-		{
-			"institution": "Rochester Institute of Technology",
-			"gpa": "3.67",
-			"courses":
-			[
-				"Coursework in Psychology, Statistics, and Linguistics departments",
-				"Research assistantships for the Psychology and Engineering Technology departments",
-				"Degree focus in psycholinguistics",
-				"Masters thesis on emotional word processing"
-			],
-			"startDate": "2018-01",
-			"endDate": "2019-12",
-			"area": "Experimental Psychology",
-			"studyType": "Graduate",
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"institution": "Colgate University",
-			"gpa": "3.47",
-			"courses":
-			[
-				"Double major in Japanese and Psychology with a cognitive linguistics focus",
-				"Undergraduate theses examining integration of visual cues into novel phoneme reproduction",
-				"Awarded a competitive research grant for translation and synthesis of scientific literature in English and Japanese",
-				"Selected for the Benton Scholar Program, focusing on global leadership, entrepreneurship, and community leadership at Colgate"
-			],
-			"startDate": "2013-08",
-			"endDate": "2017-05",
-			"area": "Japanese & Psychology",
-			"studyType": "Undergraduate",
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"institution": "Kyoto Japanese Language School",
-			"gpa": "",
-			"courses":
-			[
-				"Studied language, culture, literature, film, and theater",
-				"Expanded cultural understanding and competence through internships",
-				"Conservation volunteer work in the Bonin Islands"
-			],
-			"startDate": "2014-08",
-			"endDate": "2014-12",
-			"area": "Japanese",
-			"studyType": "Semester-long Language Study",
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		}
-	],
-	"skills":
-	[
-		{
-			"name": "Programming Languages, Tools, & Platforms",
-			"level": "",
-			"keywords":
-			[
-				"R",
-				"Python",
-				"Ruby",
-				"SQL",
-				"Golang",
-				"NoSql Databases",
-				"Vector Databases",
-				"Julia",
-				"MATLAB",
-				"SAS",
-				"Microsoft VBA",
-				"Google AppsScript",
-				"Git",
-				"Shell",
-				"Linux/Unix",
-				"Windows",
-				"Google Cloud Platform"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data"
-			]
-		},
-		{
-			"name": "Data Analysis & Statistical Techniques",
-			"level": "",
-			"keywords":
-			[
-				"Data manipulation",
-				"Data tidying",
-				"NLP (sentiment analysis, topic modeling, embedding)",
-				"Feature engineering",
-				"Regresison (linear, logistic, polynomial)",
-				"Mixed linear modeling",
-				"Structural equation modeling",
-				"(M)AN(C)OVA",
-				"Unsupervised & supervised classification",
-				"Principal component analysis & dimensionality reduction"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data"
-			]
-		},
-		{
-			"name": "Data & Statistics Software",
-			"level": "",
-			"keywords":
-			[
-				"SPSS",
-				"Tableau",
-				"Excel",
-				"Microsoft Access",
-				"Google Data Studio",
-				"KNIME",
-				"JASP",
-				"jamovi",
-				"RStudio",
-				"Spyder",
-				"MiniTab",
-				"Amazon MTurk",
-				"Qualtrics",
-				"MongoDB",
-				"Power BI",
-				"Looker",
-				"BigQuery"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data"
-			]
-		},
-		{
-			"name": "Research Skills",
-			"level": "",
-			"keywords":
-			[
-				"Experimental design",
-				"Survey design",
-				"Data collection",
-				"Literature review",
-				"Data analysis",
-				"Data visualization",
-				"Research presentation",
-				"Human subjects research",
-				"IRB compliance",
-				"Scientific writing",
-				"Academic writing"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data"
-			]
-		},
-		{
-			"name": "Language",
-			"level": "",
-			"keywords":
-			[
-				"Language teaching",
-				"Translation",
-				"Linguistic theory",
-				"Cultural & educational activities",
-				"Natural Language Processing",
-				"Multilingual Research"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"japanese"
-			]
-		}
-	],
-	"volunteer":
-	[
-		{
-			"organization": "Himi City Port Authority",
-			"position": "Fish Market Floor Intern",
-			"startDate": "2014-10",
-			"endDate": "2014-10",
-			"website": "",
-			"summary": "",
-			"highlights":
-			[
-				"Communicate with other fish market floor staff to receive, sort, process, and inspect fish incoming from fishing boats",
-				"Maintain market floor flow and operations",
-				"Communicate in Japanese with staff and other interns to ensure completion of necessary processing tasks"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"japanese"
-			]
-		},
-		{
-			"organization": "Ogasawara Marine Center",
-			"position": "Sea Turtle Conservation Operations Assistant",
-			"startDate": "2014-12",
-			"endDate": "2014-12",
-			"website": "",
-			"summary": "",
-			"highlights":
-			[
-				"Coordinate with conservatory staff to care for sea turtles in various stages of rescue and rehabilitation",
-				"Communicate in Japanese with staff and other assistants to conduct conversatory operations"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"japanese"
-			]
-		}
-	],
-	"publications":
-	[
-		{
-			"name": "The value of handwritten notes: A failure to find state-dependent effects when using a laptop to take notes and complete a quiz",
-			"publisher": "Teaching of Psychology, 49(1), 7-13",
-			"releaseDate": "2020",
-			"authors": "Crumb, R. M., Hildebrandt, R., & Sutton, T. M.",
-			"website": "http://dx.doi.org/10.1177/0098628320979895",
-			"summary": "",
-			"tags":
-			[
-				"full",
-				"cv"
-			]
-		},
-		{
-			"name": "Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm",
-			"publisher": "Poster presented at the Psychonomic Society 2019 Annual Meeting, Montreal, Quebec, Canada",
-			"releaseDate": "2019",
-			"authors": "Hildebrandt, R., Sutton, T. M.",
-			"website": "",
-			"summary": "",
-			"tags":
-			[
-				"full",
-				"cv"
-			]
-		},
-		{
-			"name": "State-Dependent Learning and Note-Taking Strategies",
-			"publisher": "Poster presented at the APS Annual Convention. Washington, DC, USA",
-			"releaseDate": "2019",
-			"authors": "Sutton, T. M., Crumb, R., & Hildebrandt, R.",
-			"website": "",
-			"summary": "",
-			"tags":
-			[
-				"full",
-				"cv"
-			]
-		}
-	],
-	"interests":
-	[
-		{
-			"name": "Speech Processing (EN & JP)",
-			"summary": "",
-			"keywords":
-			[
-				"Speech intelligibility",
-				"Phonology",
-				"Emotional word characteristics"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"name": "Bilingualism",
-			"summary": "",
-			"keywords":
-			[
-				"Language acquisition",
-				"L2 phoneme processing"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"name": "Natural Language Processing",
-			"summary": "",
-			"keywords":
-			[
-				"Word & sentence embedding",
-				"Unsupervised learning",
-				"Document classification"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		}
-	],
-	"languages":
-	[
-		{
-			"language": "English",
-			"level": "Native",
-			"skills": [{"name": "", "level": ""}],
-			"tags":
-			[
-				"full",
-				"cv",
-				"japanese"
-			]
-		},
-		{
-			"language": "Japanese",
-			"level": "CEFR B2",
-			"skills": 
-			[
-				{"name": "Conversational", "level": "Advanced High"},
-				{"name": "Compositional - Spoken", "level": "Advanced Mid"},
-				{"name": "Compositional - Written", "level": "Intermediate High"},
-				{"name": "Interpretive - Spoken", "level": "Intermediate High"},
-				{"name": "Interpretive - Written", "level": "Intermediate Mid"}
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"japanese"
-			]
-		}
-	],
-	"research":
-	[
-		{
-			"title": "Emotion Word Processing in a Satiation Paradigm",
-			"institution": "Rochester Institute of Technology",
-			"type": "Graduate Thesis",
-			"highlights":
-			[
-				"Study investigating how emotion word type and valence impact word processing via semantic satiation",
-				"R : Stimulus selection, data analysis & visualization",
-				"Qualtrics/SuperLab : Data collection & experiment coding",
-				"Presented at Psychonomic Society 2019 Meeting, Montreal"
-			],
-			"tags":
-			[
-				"full",
-				"cv"
-			]
-		},
-		{
-			"title": "Detection & Perception of Emotional Faces",
-			"institution": "Rochester Institute of Technology",
-			"type": "Graduate Research Assistantship",
-			"highlights":
-			[
-				"Research examining the categorization, detection, and rating of emotional faces as compared to other images",
-				"R : Stimulus selection",
-				"Python/PsychoPy : Experiment coding"
-			],
-			"tags":
-			[
-				"full",
-				"cv"
-			]
-		},
-		{
-			"title": "Content Retention & Note Taking Style",
-			"institution": "Rochester Institute of Technology",
-			"type": "Graduate Research Assistantship",
-			"highlights":
-			[
-				"Study looking at how note taking mode (laptop or hand-written) impacts retention of different kinds of information in an educational setting",
-				"Presented at APS 2019, Washington DC",
-				"Published: Crumb, R., Hildebrandt, R. & Sutton, T. M. (2019). The value of handwritten notes: A failure to find state-dependent effects when using a laptop to take notes and complete a quiz."
-			],
-			"tags":
-			[
-				"full",
-				"cv"
-			]
-		},
-		{
-			"title": "Speech Intelligibility Testing for Novel Noise Reduction Algorithm",
-			"institution": "Rochester Institute of Technology",
-			"type": "Graduate Researcher Position",
-			"highlights":
-			[
-				"Project assessing noise reduction algorithms for use in microphones used by first responders",
-				"Praat/R : Stimulus preparation, data coding",
-				"MTurk : Experiment coding, data collection"
-			],
-			"tags":
-			[
-				"full",
-				"cv"
-			]
-		},
-		{
-			"title": "Integration of Visual Cues When Reproducing Novel L2 Phonemes",
-			"institution": "Colgate University",
-			"type": "Undergraduate Thesis",
-			"highlights":
-			[
-				"Assessing how visual cues impact how accurately English speakers reproduce Japanese long vowels and geminate consonants"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"japanese"
-			]
-		},
-		{
-			"title": "Synthesis of English & Japanese Research on the McGurk Effect",
-			"institution": "Colgate University",
-			"type": "Independent Research Grant",
-			"highlights":
-			[
-				"Translating and synthesizing English and Japanese scientific literature for use in my thesis study through a student research grant awarded by Colgate University"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"japanese"
-			]
-		}
-	],
-	"courses":
-	[
-		{
-			"category": "Data Science & Statistics",
-			"keywords":
-			[
-				"Natural Language Processing Specialization",
-				"Feature Selection for Machine Learning",
-				"Deep Learning A-Z: Hands-On Artificial Neural Networks",
-				"Causal Data Science with Directed Acyclic Graphs",
-				"Bayesian Statistics",
-				"Graph Theory"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data"
-			]
-		},
-		{
-			"category": "Google Cloud Platform",
-			"keywords":
-			[
-				"Creating Business Value with Data and Looker Specialization",
-				"Customer Experiences with Contact Center AI - Dialogflow ES & CX Specializations",
-				"From Data to Insights with Google Cloud Learning Path",
-				"Machine Learning on Google Cloud Learning Path"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data"
-			]
-		},
-		{
-			"category": "Data Science Libraries & Languages",
-			"keywords":
-			[
-				"TensorFlow Developer Specialization",
-				"TensorFlow: Advanced Techniques Specialization",
-				"Complete Time Series Analysis Bootcamp in R",
-				"Master SQL for Data Science"
-			],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data"
-			]
-		}
-	],
-	"certifications":
-	[
-		{
-			"organization": "Google Cloud",
-			"title": "Associate Cloud Engineer",
-			"date": "2023-04",
-			"url": "https://google.accredible.com/d3ef369f-9c2c-486a-bda6-943a74f70dff",
-			"tags":
-			[
-				"full",
-				"cv",
-				"data"
-			]
-		}
-	],
-	"projects":
-	[
-		{
-			"name": "particles",
-			"description": "Contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が",
-			"highlights":
-			[],
-			"keywords":
-			[
-				"Report",
-				"Python",
-				"Japanese",
-				"NLP"
-			],
-			"url": "https://github.com/ryancahildebrandt/particles",
-			"roles":
-			[],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"name": "thesis",
-			"description": "Analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm",
-			"highlights":
-			[],
-			"keywords":
-			[
-				"Publication",
-				"R",
-				"Psycholinguistics",
-				"Study"
-			],
-			"url": "https://github.com/ryancahildebrandt/thesis",
-			"roles":
-			[],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"name": "aozora_corpus",
-			"description": "A compilation of Japanese texts pulled from 青空文庫",
-			"highlights":
-			[],
-			"keywords":
-			[
-				"Corpus",
-				"R",
-				"Japanese",
-				"Literature"
-			],
-			"url": "https://github.com/ryancahildebrandt/aozora_corpus",
-			"roles":
-			[],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"name": "embs",
-			"description": "Tools streamlining sentence embedding or clustering techniques",
-			"highlights":
-			[],
-			"keywords":
-			[
-				"Application",
-				"Report",
-				"Python",
-				"NLP"
-			],
-			"url": "https://github.com/ryancahildebrandt/embs",
-			"roles":
-			[],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"name": "siftr",
-			"description": "Shiny app using SIF sentence embeddings to separate out unwanted text data",
-			"highlights":
-			[],
-			"keywords":
-			[
-				"Application",
-				"R",
-				"NLP",
-				"Sentence embedding"
-			],
-			"url": "https://github.com/ryancahildebrandt/siftr",
-			"roles":
-			[],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"name": "priors",
-			"description": "An experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge",
-			"highlights":
-			[],
-			"keywords":
-			[
-				"Report",
-				"Python",
-				"NLP",
-				"Sentence embedding"
-			],
-			"url": "https://github.com/ryancahildebrandt/priors",
-			"roles":
-			[],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"name": "bowts",
-			"description": "An experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation",
-			"highlights":
-			[],
-			"keywords":
-			[
-				"Report",
-				"Python",
-				"NLP",
-				"Sentence embedding"
-			],
-			"url": "https://github.com/ryancahildebrandt/bowts",
-			"roles":
-			[],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"name": "iterate",
-			"description": "Iterative clustering for sklearn clusterers",
-			"highlights":
-			[],
-			"keywords":
-			[
-				"Tools",
-				"Python",
-				"Clustering",
-				"NLP"
-			],
-			"url": "https://github.com/ryancahildebrandt/iterate",
-			"roles":
-			[],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"name": "topics",
-			"description": "Experiments and utilities for text topic extraction using decision trees",
-			"highlights":
-			[],
-			"keywords":
-			[
-				"Tools",
-				"Python",
-				"Clustering",
-				"NLP"
-			],
-			"url": "https://github.com/ryancahildebrandt/topics",
-			"roles":
-			[],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"name": "nlt",
-			"description": "Representing tabular data in natural language",
-			"highlights":
-			[],
-			"keywords":
-			[
-				"Tools",
-				"Go",
-				"RAG",
-				"NLP"
-			],
-			"url": "https://github.com/ryancahildebrandt/nlt",
-			"roles":
-			[],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		},
-		{
-			"name": "gsgf",
-			"description": "Generating natural language expressions from JSGF",
-			"highlights":
-			[],
-			"keywords":
-			[
-				"Tools",
-				"Go",
-				"Application",
-				"NLP"
-			],
-			"url": "https://github.com/ryancahildebrandt/gsgf",
-			"roles":
-			[],
-			"tags":
-			[
-				"full",
-				"cv",
-				"data",
-				"japanese"
-			]
-		}
-	]
+  "basics": {
+    "name": "Ryan Hildebrandt",
+    "label": "Data Scientist & NLP Specialist",
+    "summary": "Broadly, I'm an interdisciplinary data scientist with special interests in psycholinguistics, computational linguistics, statistics, and Japanese. More specifically, I apply statistical and natural language processing techniques to solve problems and enrich my and my team's understanding of whatever data is at hand. I bring a strong statistical emphasis to my work, whether in the form of data handling, ad-hoc statistical analyses, or machine learning applications",
+    "website": "",
+    "phone": "",
+    "email": "ryancahildebrandt@gmail.com",
+    "picture": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Corning",
+      "countryCode": "USA",
+      "region": "New York"
+    },
+    "profiles": [
+      {
+        "network": "Website",
+        "username": "",
+        "url": "https://rcah.xyz"
+      },
+      {
+        "network": "Github",
+        "username": "ryancahildebrandt",
+        "url": "https://github.com/ryancahildebrandt"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "rcah",
+        "url": "https://linkedin.com/in/rcah"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "Ryan Hildebrandt",
+        "url": "https://researchgate.net/profile/Ryan-Hildebrandt"
+      }
+    ],
+    "tags": ["full", "data", "japanese", "cv"]
+  },
+  "work": [
+    {
+      "company": "Botcopy",
+      "website": "",
+      "position": "Senior CCAI Engineer: ML/AI & NLP Specialist",
+      "startDate": "2024-06",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Engineer NLP analytics pipelines to extract insights from conversational data and improve on Google's native analytics",
+        "Test and evaluate generative models for use across conversational agents, aligning model characteristics with client requirements",
+        "Build, deploy, and optimize both sateful and generative Google CCAI agents in line with client needs"
+      ],
+      "tags": ["full", "data"]
+    },
+    {
+      "company": "TekSystems for Google CCAI",
+      "website": "",
+      "position": "Lead Engineer: ML/AI, NLP, & Analytics Specialist",
+      "startDate": "2022-06",
+      "endDate": "2024-06",
+      "summary": "",
+      "highlights": [
+        "Design NLP pipelines, analytics tools, and generative AI applications in response to client needs via GCP services",
+        "Engineer and implement solutions including data migration from spreadsheets to BigQuery, data cleaning, KPI tracking, clustering unlabeled free text responses, and training custom models to simplify analytics",
+        "Coordinate data processing team efforts for labeling datasets, developing classification guidelines, and technical process documentation"
+      ],
+      "tags": ["full", "data"]
+    },
+    {
+      "company": "TekSystems for Google CCAI",
+      "website": "",
+      "position": "Data Designer -- Contract",
+      "startDate": "2021-06",
+      "endDate": "2022-06",
+      "summary": "",
+      "highlights": [
+        "Apply statistical and machine learning techniques to analyze client data",
+        "Generate insights from analyzed data to make recommendations for product improvements",
+        "Design, build, and maintain Google CCAI agents for client-specific use cases as well as NLP experiments"
+      ],
+      "tags": ["full", "data"]
+    },
+    {
+      "company": "Cerence, Inc.",
+      "website": "",
+      "position": "Japanese Natural Language Understanding Specialist -- Contract",
+      "startDate": "2020-11",
+      "endDate": "2021-04",
+      "summary": "",
+      "highlights": [
+        "Extend NLU grammars used for speech recognition models with necessary labels and semantic tags",
+        "Analyze and correct errors in NLU machine learning model output in an accurate and timely manner",
+        "Localize English NLU resources into Japanese for use by a variety of global automakers in intent classification and semantic labeling"
+      ],
+      "tags": ["full", "data", "japanese"]
+    },
+    {
+      "company": "CoreLogic",
+      "website": "",
+      "position": "Senior Operations Associate",
+      "startDate": "2020-02",
+      "endDate": "2020-08",
+      "summary": "",
+      "highlights": [
+        "Synthesize tax information from company, mortgage client, and public agency databases in order to resolve tax issues",
+        "Use knowledge of client and internal company procedures to resolve tax issues in a timely manner",
+        "Coordinate with team members and leads to resolve assigned tasks efficiently, while continuing to learn new problem solving procedures daily"
+      ],
+      "tags": ["full", "data"]
+    },
+    {
+      "company": "Varsity Tutors",
+      "website": "",
+      "position": "Statistics & Data Analysis Tutor",
+      "startDate": "2019-09",
+      "endDate": "2022-05",
+      "summary": "",
+      "highlights": [
+        "Online tutoring for high school, undergraduate, and graduate level students",
+        "Specializing in statistics and data analysis using R, Python, and SPSS",
+        "Additional tutoring in Japanese, social science research design, and academic writing"
+      ],
+      "tags": ["full", "data", "japanese"]
+    },
+    {
+      "company": "Rochester Institute of Technology",
+      "website": "",
+      "position": "Statistics & Psychology Tutor",
+      "startDate": "2019-09",
+      "endDate": "2020-01",
+      "summary": "",
+      "highlights": [
+        "In person tutoring for undergraduate and graduate level students",
+        "Specializing in statistics and psychological research using R and SPSS"
+      ],
+      "tags": ["full", "data"]
+    },
+    {
+      "company": "Rochester Institute of Technology",
+      "website": "",
+      "position": "Research & Teaching Assistant",
+      "startDate": "2018-01",
+      "endDate": "2020-02",
+      "summary": "",
+      "highlights": [
+        "Oversee several psychology research studies from literature review through data collection, manipulation, analysis, and presentation",
+        "Utilize R, Python, SPSS, Tableau, and Qualtrics to complete the various stages of research",
+        "Apply knowledge of research best practices, data management, and statistics to ensure integrity and accuracy of all stages of research"
+      ],
+      "tags": ["full", "data"]
+    },
+    {
+      "company": "Concordia Language Villages",
+      "website": "",
+      "position": "Japanese Language & Cultural Activities Instructor, Academic Year Program",
+      "startDate": "2020-09",
+      "endDate": "2021-04",
+      "summary": "",
+      "highlights": [
+        "Teach Japanese language classes for high school credit, working with students ranging from beginner to intermediate-advanced level",
+        "Lead virtual Japanese cultural activities including cooking, tea ceremony, and calligraphy as a part of CLV's academic year programs"
+      ],
+      "tags": ["full", "japanese"]
+    },
+    {
+      "company": "Concordia Language Villages",
+      "website": "",
+      "position": "Japanese High-School Credit Teacher, Summer Session",
+      "startDate": "2017-07",
+      "endDate": "2019-08",
+      "summary": "",
+      "highlights": [
+        "Teach daily Japanese language classes for students ranging from beginner to ~300 level Japanese, including curriculum structuring, lesson planning, student assessments, and a range of activities and projects to showcase student outcomes",
+        "Classes take place over 4 weeks as a part of CLV's Accredited high school credit Summer programs, equivalent to one academic year of instruction totaling 180 hours when combined with other immersion activities at the camp"
+      ],
+      "tags": ["full", "japanese"]
+    },
+    {
+      "company": "Concordia Language Villages",
+      "website": "",
+      "position": "Summer Camp Counselor",
+      "startDate": "2015-07",
+      "endDate": "2016-08",
+      "summary": "",
+      "highlights": [
+        "Collaborate with other counseling staff to run Mori No Ike Japanese Language Immersion Camp for a period of four to five weeks, working with children and students ages 8 to 18",
+        "Create original daily programming and camp activities entirely in Japanese, including language instruction, dance, cultural activities, and educational presentations"
+      ],
+      "tags": ["full", "japanese"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rochester Institute of Technology",
+      "gpa": "3.67",
+      "courses": [
+        "Coursework in Psychology, Statistics, and Linguistics departments",
+        "Research assistantships for the Psychology and Engineering Technology departments",
+        "Degree focus in psycholinguistics",
+        "Masters thesis on emotional word processing"
+      ],
+      "startDate": "2018-01",
+      "endDate": "2019-12",
+      "area": "Experimental Psychology",
+      "studyType": "Graduate",
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "institution": "Colgate University",
+      "gpa": "3.47",
+      "courses": [
+        "Double major in Japanese and Psychology with a cognitive linguistics focus",
+        "Undergraduate theses examining integration of visual cues into novel phoneme reproduction",
+        "Awarded a competitive research grant for translation and synthesis of scientific literature in English and Japanese",
+        "Selected for the Benton Scholar Program, focusing on global leadership, entrepreneurship, and community leadership at Colgate"
+      ],
+      "startDate": "2013-08",
+      "endDate": "2017-05",
+      "area": "Japanese & Psychology",
+      "studyType": "Undergraduate",
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "institution": "Kyoto Japanese Language School",
+      "gpa": "",
+      "courses": [
+        "Studied language, culture, literature, film, and theater",
+        "Expanded cultural understanding and competence through internships",
+        "Conservation volunteer work in the Bonin Islands"
+      ],
+      "startDate": "2014-08",
+      "endDate": "2014-12",
+      "area": "Japanese",
+      "studyType": "Semester-long Language Study",
+      "tags": ["full", "cv", "data", "japanese"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages, Tools, & Platforms",
+      "level": "",
+      "keywords": [
+        "R",
+        "Python",
+        "Ruby",
+        "SQL",
+        "Golang",
+        "NoSql Databases",
+        "Vector Databases",
+        "Julia",
+        "MATLAB",
+        "SAS",
+        "Microsoft VBA",
+        "Google AppsScript",
+        "Git",
+        "Shell",
+        "Linux/Unix",
+        "Windows",
+        "Google Cloud Platform"
+      ],
+      "tags": ["full", "cv", "data"]
+    },
+    {
+      "name": "Data Analysis & Statistical Techniques",
+      "level": "",
+      "keywords": [
+        "Data manipulation",
+        "Data tidying",
+        "NLP (sentiment analysis, topic modeling, embedding)",
+        "Feature engineering",
+        "Regresison (linear, logistic, polynomial)",
+        "Mixed linear modeling",
+        "Structural equation modeling",
+        "(M)AN(C)OVA",
+        "Unsupervised & supervised classification",
+        "Principal component analysis & dimensionality reduction"
+      ],
+      "tags": ["full", "cv", "data"]
+    },
+    {
+      "name": "Data & Statistics Software",
+      "level": "",
+      "keywords": [
+        "SPSS",
+        "Tableau",
+        "Excel",
+        "Microsoft Access",
+        "Google Data Studio",
+        "KNIME",
+        "JASP",
+        "jamovi",
+        "RStudio",
+        "Spyder",
+        "MiniTab",
+        "Amazon MTurk",
+        "Qualtrics",
+        "MongoDB",
+        "Power BI",
+        "Looker",
+        "BigQuery"
+      ],
+      "tags": ["full", "cv", "data"]
+    },
+    {
+      "name": "Research Skills",
+      "level": "",
+      "keywords": [
+        "Experimental design",
+        "Survey design",
+        "Data collection",
+        "Literature review",
+        "Data analysis",
+        "Data visualization",
+        "Research presentation",
+        "Human subjects research",
+        "IRB compliance",
+        "Scientific writing",
+        "Academic writing"
+      ],
+      "tags": ["full", "cv", "data"]
+    },
+    {
+      "name": "Language",
+      "level": "",
+      "keywords": [
+        "Language teaching",
+        "Translation",
+        "Linguistic theory",
+        "Cultural & educational activities",
+        "Natural Language Processing",
+        "Multilingual Research"
+      ],
+      "tags": ["full", "cv", "japanese"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Himi City Port Authority",
+      "position": "Fish Market Floor Intern",
+      "startDate": "2014-10",
+      "endDate": "2014-10",
+      "website": "",
+      "summary": "",
+      "highlights": [
+        "Communicate with other fish market floor staff to receive, sort, process, and inspect fish incoming from fishing boats",
+        "Maintain market floor flow and operations",
+        "Communicate in Japanese with staff and other interns to ensure completion of necessary processing tasks"
+      ],
+      "tags": ["full", "cv", "japanese"]
+    },
+    {
+      "organization": "Ogasawara Marine Center",
+      "position": "Sea Turtle Conservation Operations Assistant",
+      "startDate": "2014-12",
+      "endDate": "2014-12",
+      "website": "",
+      "summary": "",
+      "highlights": [
+        "Coordinate with conservatory staff to care for sea turtles in various stages of rescue and rehabilitation",
+        "Communicate in Japanese with staff and other assistants to conduct conversatory operations"
+      ],
+      "tags": ["full", "cv", "japanese"]
+    }
+  ],
+  "publications": [
+    {
+      "name": "The value of handwritten notes: A failure to find state-dependent effects when using a laptop to take notes and complete a quiz",
+      "publisher": "Teaching of Psychology, 49(1), 7-13",
+      "releaseDate": "2020",
+      "authors": "Crumb, R. M., Hildebrandt, R., & Sutton, T. M.",
+      "website": "http://dx.doi.org/10.1177/0098628320979895",
+      "summary": "",
+      "tags": ["full", "cv"]
+    },
+    {
+      "name": "Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm",
+      "publisher": "Poster presented at the Psychonomic Society 2019 Annual Meeting, Montreal, Quebec, Canada",
+      "releaseDate": "2019",
+      "authors": "Hildebrandt, R., Sutton, T. M.",
+      "website": "",
+      "summary": "",
+      "tags": ["full", "cv"]
+    },
+    {
+      "name": "State-Dependent Learning and Note-Taking Strategies",
+      "publisher": "Poster presented at the APS Annual Convention. Washington, DC, USA",
+      "releaseDate": "2019",
+      "authors": "Sutton, T. M., Crumb, R., & Hildebrandt, R.",
+      "website": "",
+      "summary": "",
+      "tags": ["full", "cv"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Speech Processing (EN & JP)",
+      "summary": "",
+      "keywords": [
+        "Speech intelligibility",
+        "Phonology",
+        "Emotional word characteristics"
+      ],
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "name": "Bilingualism",
+      "summary": "",
+      "keywords": ["Language acquisition", "L2 phoneme processing"],
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "name": "Natural Language Processing",
+      "summary": "",
+      "keywords": [
+        "Word & sentence embedding",
+        "Unsupervised learning",
+        "Document classification"
+      ],
+      "tags": ["full", "cv", "data", "japanese"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "level": "Native",
+      "skills": [{ "name": "", "level": "" }],
+      "tags": ["full", "cv", "japanese"]
+    },
+    {
+      "language": "Japanese",
+      "level": "CEFR B2",
+      "skills": [
+        { "name": "Conversational", "level": "Advanced High" },
+        { "name": "Compositional - Spoken", "level": "Advanced Mid" },
+        { "name": "Compositional - Written", "level": "Intermediate High" },
+        { "name": "Interpretive - Spoken", "level": "Intermediate High" },
+        { "name": "Interpretive - Written", "level": "Intermediate Mid" }
+      ],
+      "tags": ["full", "cv", "japanese"]
+    }
+  ],
+  "research": [
+    {
+      "title": "Emotion Word Processing in a Satiation Paradigm",
+      "institution": "Rochester Institute of Technology",
+      "type": "Graduate Thesis",
+      "highlights": [
+        "Study investigating how emotion word type and valence impact word processing via semantic satiation",
+        "R : Stimulus selection, data analysis & visualization",
+        "Qualtrics/SuperLab : Data collection & experiment coding",
+        "Presented at Psychonomic Society 2019 Meeting, Montreal"
+      ],
+      "tags": ["full", "cv"]
+    },
+    {
+      "title": "Detection & Perception of Emotional Faces",
+      "institution": "Rochester Institute of Technology",
+      "type": "Graduate Research Assistantship",
+      "highlights": [
+        "Research examining the categorization, detection, and rating of emotional faces as compared to other images",
+        "R : Stimulus selection",
+        "Python/PsychoPy : Experiment coding"
+      ],
+      "tags": ["full", "cv"]
+    },
+    {
+      "title": "Content Retention & Note Taking Style",
+      "institution": "Rochester Institute of Technology",
+      "type": "Graduate Research Assistantship",
+      "highlights": [
+        "Study looking at how note taking mode (laptop or hand-written) impacts retention of different kinds of information in an educational setting",
+        "Presented at APS 2019, Washington DC",
+        "Published: Crumb, R., Hildebrandt, R. & Sutton, T. M. (2019). The value of handwritten notes: A failure to find state-dependent effects when using a laptop to take notes and complete a quiz."
+      ],
+      "tags": ["full", "cv"]
+    },
+    {
+      "title": "Speech Intelligibility Testing for Novel Noise Reduction Algorithm",
+      "institution": "Rochester Institute of Technology",
+      "type": "Graduate Researcher Position",
+      "highlights": [
+        "Project assessing noise reduction algorithms for use in microphones used by first responders",
+        "Praat/R : Stimulus preparation, data coding",
+        "MTurk : Experiment coding, data collection"
+      ],
+      "tags": ["full", "cv"]
+    },
+    {
+      "title": "Integration of Visual Cues When Reproducing Novel L2 Phonemes",
+      "institution": "Colgate University",
+      "type": "Undergraduate Thesis",
+      "highlights": [
+        "Assessing how visual cues impact how accurately English speakers reproduce Japanese long vowels and geminate consonants"
+      ],
+      "tags": ["full", "cv", "japanese"]
+    },
+    {
+      "title": "Synthesis of English & Japanese Research on the McGurk Effect",
+      "institution": "Colgate University",
+      "type": "Independent Research Grant",
+      "highlights": [
+        "Translating and synthesizing English and Japanese scientific literature for use in my thesis study through a student research grant awarded by Colgate University"
+      ],
+      "tags": ["full", "cv", "japanese"]
+    }
+  ],
+  "courses": [
+    {
+      "category": "Data Science & Statistics",
+      "keywords": [
+        "Natural Language Processing Specialization",
+        "Feature Selection for Machine Learning",
+        "Deep Learning A-Z: Hands-On Artificial Neural Networks",
+        "Causal Data Science with Directed Acyclic Graphs",
+        "Bayesian Statistics",
+        "Graph Theory"
+      ],
+      "tags": ["full", "cv", "data"]
+    },
+    {
+      "category": "Google Cloud Platform",
+      "keywords": [
+        "Creating Business Value with Data and Looker Specialization",
+        "Customer Experiences with Contact Center AI - Dialogflow ES & CX Specializations",
+        "From Data to Insights with Google Cloud Learning Path",
+        "Machine Learning on Google Cloud Learning Path"
+      ],
+      "tags": ["full", "cv", "data"]
+    },
+    {
+      "category": "Data Science Libraries & Languages",
+      "keywords": [
+        "TensorFlow Developer Specialization",
+        "TensorFlow: Advanced Techniques Specialization",
+        "Complete Time Series Analysis Bootcamp in R",
+        "Master SQL for Data Science"
+      ],
+      "tags": ["full", "cv", "data"]
+    }
+  ],
+  "certifications": [
+    {
+      "organization": "Google Cloud",
+      "title": "Associate Cloud Engineer",
+      "date": "2023-04",
+      "url": "https://google.accredible.com/d3ef369f-9c2c-486a-bda6-943a74f70dff",
+      "tags": ["full", "cv", "data"]
+    }
+  ],
+  "projects": [
+    {
+      "name": "particles",
+      "description": "Contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が",
+      "highlights": [],
+      "keywords": ["Report", "Python", "Japanese", "NLP"],
+      "url": "https://github.com/ryancahildebrandt/particles",
+      "roles": [],
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "name": "thesis",
+      "description": "Analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm",
+      "highlights": [],
+      "keywords": ["Publication", "R", "Psycholinguistics", "Study"],
+      "url": "https://github.com/ryancahildebrandt/thesis",
+      "roles": [],
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "name": "aozora_corpus",
+      "description": "A compilation of Japanese texts pulled from 青空文庫",
+      "highlights": [],
+      "keywords": ["Corpus", "R", "Japanese", "Literature"],
+      "url": "https://github.com/ryancahildebrandt/aozora_corpus",
+      "roles": [],
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "name": "embs",
+      "description": "Tools streamlining sentence embedding or clustering techniques",
+      "highlights": [],
+      "keywords": ["Application", "Report", "Python", "NLP"],
+      "url": "https://github.com/ryancahildebrandt/embs",
+      "roles": [],
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "name": "siftr",
+      "description": "Shiny app using SIF sentence embeddings to separate out unwanted text data",
+      "highlights": [],
+      "keywords": ["Application", "R", "NLP", "Sentence embedding"],
+      "url": "https://github.com/ryancahildebrandt/siftr",
+      "roles": [],
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "name": "priors",
+      "description": "An experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge",
+      "highlights": [],
+      "keywords": ["Report", "Python", "NLP", "Sentence embedding"],
+      "url": "https://github.com/ryancahildebrandt/priors",
+      "roles": [],
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "name": "bowts",
+      "description": "An experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation",
+      "highlights": [],
+      "keywords": ["Report", "Python", "NLP", "Sentence embedding"],
+      "url": "https://github.com/ryancahildebrandt/bowts",
+      "roles": [],
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "name": "iterate",
+      "description": "Iterative clustering for sklearn clusterers",
+      "highlights": [],
+      "keywords": ["Tools", "Python", "Clustering", "NLP"],
+      "url": "https://github.com/ryancahildebrandt/iterate",
+      "roles": [],
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "name": "topics",
+      "description": "Experiments and utilities for text topic extraction using decision trees",
+      "highlights": [],
+      "keywords": ["Tools", "Python", "Clustering", "NLP"],
+      "url": "https://github.com/ryancahildebrandt/topics",
+      "roles": [],
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "name": "nlt",
+      "description": "Representing tabular data in natural language",
+      "highlights": [],
+      "keywords": ["Tools", "Go", "RAG", "NLP"],
+      "url": "https://github.com/ryancahildebrandt/nlt",
+      "roles": [],
+      "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+      "name": "gsgf",
+      "description": "Generating natural language expressions from JSGF",
+      "highlights": [],
+      "keywords": ["Tools", "Go", "Application", "NLP"],
+      "url": "https://github.com/ryancahildebrandt/gsgf",
+      "roles": [],
+      "tags": ["full", "cv", "data", "japanese"]
+    }
+  ]
 }

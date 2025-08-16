@@ -14,3 +14,4 @@
 *.lock
 cover_letter/
 *.html
+Makefile

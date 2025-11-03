@@ -647,6 +647,15 @@
       "url": "https://github.com/ryancahildebrandt/gsgf",
       "roles": [],
       "tags": ["full", "cv", "data", "japanese"]
+    },
+    {
+    	"name":"c2g",
+    	"description":"Condensing text corpora to context free grammars",
+    	"highlights": [],
+	    "keywords": ["Tools", "Go", "Application", "NLP"],
+  	    "url": "https://github.com/ryancahildebrandt/c2g",
+  	    "roles": [],
+  	    "tags": ["full", "cv", "data", "japanese"]
     }
   ]
 }

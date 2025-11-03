@@ -129,6 +129,9 @@ ryancahildebrandt@gmail.com | Corning, New York
 ***[gsgf](https://github.com/ryancahildebrandt/gsgf)***: Generating natural language expressions from JSGF  
 **Keywords:** *Tools, Go, Application, NLP*
 
+***[c2g](https://github.com/ryancahildebrandt/c2g)***: Condensing text corpora to context free grammars  
+**Keywords:** *Tools, Go, Application, NLP*
+
 ## Research Interests
 **Speech Processing (EN & JP)**  
 **Keywords:** *Speech intelligibility, Phonology, Emotional word characteristics*

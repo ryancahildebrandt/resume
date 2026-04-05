@@ -1,0 +1,9 @@
+{{- define "skills" -}}
+{{ if (gt (len .Skills) 0) }}
+## Skills
+{{ range .Skills }}
+**{{ .Name }}**
+*{{ strings_join .Keywords ", " }}*
+{{ end }}
+{{ end }}
+{{- end -}}

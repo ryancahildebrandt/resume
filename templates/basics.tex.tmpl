@@ -1,0 +1,7 @@
+{{- define "basics" -}}
+\textbf{\Large  {{ .Basics.Name }}}\\[2pt]
+
+{{ range .Basics.Profiles }}\href{{ "{" }}{{ .URL }}{{ "}" }}{{ "{" }}{{ .Network }}{{ "}" }} {{ end }}
+
+{{ .Basics.Email }} | {{ .Basics.Location.City }}, {{ .Basics.Location.Region }}
+{{- end -}}

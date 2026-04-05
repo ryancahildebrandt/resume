@@ -1,0 +1,11 @@
+{{- define "projects" -}}
+{{ if (gt (len .Projects) 0) }}
+\section*{Projects}
+{{ range .Projects }}
+\noindent
+\textbf{\href{{ "{" }}{{ tex_sanitize .URL }}{{ "}" }}{{ "{" }}{{ tex_sanitize .Name }}{{ "}" }}}
+{{ .Description }}
+Keywords: {{ strings_join .Keywords ", "}}
+{{ end }}
+{{ end }}
+{{- end -}}

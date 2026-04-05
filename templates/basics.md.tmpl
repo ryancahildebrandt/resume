@@ -1,0 +1,7 @@
+{{- define "basics" -}}
+# {{ .Basics.Name }}
+
+{{ range .Basics.Profiles }}[{{ .Network }}]({{ .URL }}) {{ end }}
+
+{{ .Basics.Email }} | {{ .Basics.Location.City }}, {{ .Basics.Location.Region }}
+{{ end }}

@@ -1,0 +1,16 @@
+{{- define "work" -}}
+{{ if (gt (len .Work) 0) }}
+\section*{Work Experience}
+{{ range .Work }}
+\noindent
+\textbf{{ "{" }}{{ tex_sanitize .Position }}{{ "}" }}
+\noindent
+\textit{{ "{" }}{{ .Company }}{{ "}" }} \hfill {{ .StartDate }} - {{ .EndDate }}
+\begin{itemize}
+{{ range.Highlights }}
+\item {{ . }}
+{{- end }}
+\end{itemize}
+{{ end }}
+{{ end }}
+{{- end -}}

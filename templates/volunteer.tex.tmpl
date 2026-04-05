@@ -1,0 +1,22 @@
+{{- define "volunteer" -}}
+{{ if (gt (len .Volunteer) 0) }}
+\section*{Volunteer Work}
+{{ range .Volunteer }}
+\noindent
+\textbf{{ "{" }}{{ .Position }}{{ "}" }}
+\noindent
+\textit{{ "{" }}{{ .Organization }}{{ "}" }} \hfill {{ .StartDate }} - {{ .EndDate }}
+\begin{itemize}
+{{ range.Highlights }}
+\item {{ . }}
+{{- end }}
+\end{itemize}
+{{ end }}
+{{ end }}
+{{- end -}}
+
+
+
+
+
+

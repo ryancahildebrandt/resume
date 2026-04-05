@@ -1,0 +1,15 @@
+{{- define "research" -}}
+{{ if (gt (len .Research) 0) }}
+\section*{Research Experience}
+{{ range .Research }}
+\noindent
+\textbf{{ "{" }}{{ tex_sanitize .Title }}:{{ "}" }}
+{{ .Institution }} - \textit{{ "{" }}{{ .Type }}{{ "}" }}
+\begin{itemize}
+{{ range.Highlights }}
+\item {{ tex_sanitize . }}
+{{- end }}
+\end{itemize}
+{{ end }}
+{{ end }}
+{{- end -}}

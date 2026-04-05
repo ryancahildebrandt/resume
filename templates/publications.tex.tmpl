@@ -1,0 +1,11 @@
+{{- define "publications" -}}
+{{ if (gt (len .Publications) 0) }}
+\section*{Publications \& Presentations}
+{{ range .Publications }}
+\noindent
+\textbf{\href{{ "{" }}{{ .Website }}{{ "}" }}{{ "{" }}{{ .Name }}{{ "}" }}{{ "}" }} ({{ .ReleaseDate }})
+{{ .Publisher }}
+{{ tex_sanitize .Authors }}
+{{ end }}
+{{ end }}
+{{- end -}}

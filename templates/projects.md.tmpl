@@ -1,0 +1,9 @@
+{{- define "projects" -}}
+{{ if (gt (len .Projects) 0) }}
+## Projects
+{{ range .Projects }}
+[***{{ .Name }}***]({{ .URL }}): {{ .Description }}\
+**Keywords:** *{{ strings_join .Keywords ", "}}*
+{{ end }}
+{{ end }}
+{{- end -}}

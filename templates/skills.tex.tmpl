@@ -1,0 +1,12 @@
+{{- define "skills" -}}
+{{ if (gt (len .Skills) 0) }}
+\section*{Skills}
+{{ range .Skills }}
+\noindent
+\textbf{{ "{" }}{{ tex_sanitize .Name }}:{{ "}" }}
+\textit{{ "{" }}{{ tex_sanitize (strings_join .Keywords ", ") }}{{ "}" }}
+{{ end }}
+{{ end }}
+{{- end -}}
+
+

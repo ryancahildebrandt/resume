@@ -1,0 +1,12 @@
+{{- define "work" -}}
+{{ if (gt (len .Work) 0) }}
+## Work Experience
+{{ range .Work }}
+**{{ .Position }}**
+*{{ .Company }}*, {{ .StartDate }} - {{ .EndDate }}
+{{ range.Highlights }}
+- {{ . }}
+{{- end }}
+{{ end }}
+{{ end }}
+{{- end -}}

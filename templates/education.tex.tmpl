@@ -1,0 +1,10 @@
+{{- define "education" -}}
+{{ if (gt (len .Education) 0) }}
+\section*{Education}
+{{ range .Education }}
+\noindent
+\textbf{{ "{" }}{{ .Institution }}{{ "}" }}
+\textit{{ "{" }}{{ tex_sanitize .StudyType }} - {{ tex_sanitize .Area }}, {{ .StartDate }} - {{ .EndDate }}{{ "}" }}
+{{ end }}
+{{ end }}
+{{- end -}}

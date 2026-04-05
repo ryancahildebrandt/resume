@@ -1,0 +1,9 @@
+{{- define "certifications" -}}
+{{ if (gt (len .Certifications) 0) }}
+\section*{Certifications}
+{{ range .Certifications }}
+\noindent
+\textbf{{ "{" }}{{ .Organization }} \href{{ "{" }}{{ .URL }}{{ "}" }}{{ "{" }}{{ .Title }}{{ "}" }}{{ "}" }} \hfill {{ .Date }}
+{{ end }}
+{{ end }}
+{{- end -}}

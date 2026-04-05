@@ -1,0 +1,11 @@
+{{- define "volunteer" -}}
+{{ if (gt (len .Volunteer) 0) }}
+## Volunteer Work
+{{ range .Volunteer }}
+**{{ .Position }}** - *{{ .Organization }}*, {{ .StartDate }} - {{ .EndDate }}
+{{ range.Highlights }}
+- {{ . }}
+{{- end }}
+{{ end }}
+{{ end }}
+{{- end -}}

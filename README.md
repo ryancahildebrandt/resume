@@ -8,5 +8,6 @@
 
 ---
 
-I've included some of the ruby (used shell & jq for a while, keeping them in this repo for posterity) scripts I use to update and generate my resumes from the single resume.json file, so I don't have to update 8+ different documents manually.
+Go script I use to update my resumes from a single resume.json file, so I don't have to update 8+ different documents manually.
 Existing resume.json parsers (HackMyResume, jsonresume, etc) didn't have quite the flexibility or utility I wanted (multiple resume versions, custom templating) or weren't super well maintained, so I wrote these scripts for my own needs and goals.
+I've included the ruby, shell, & jq scripts I used to use for posterity.

@@ -1,0 +1,9 @@
+{{- define "courses" -}}
+{{ if (gt (len .Courses) 0) }}
+\section*{Coursework}
+{{ range .Courses }}
+\noindent
+\textbf{{ "{" }}{{ tex_sanitize .Category }}{{ "}" }}:\textit{{ "{" }}{{ tex_sanitize (strings_join .Keywords ", ") }}{{ "}" }}
+{{ end }}
+{{ end }}
+{{- end -}}

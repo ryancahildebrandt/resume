@@ -1,23 +1,22 @@
-
 # Ryan Hildebrandt
 
-[Website](https://rcah.xyz) [Github](https://github.com/ryancahildebrandt) [LinkedIn](https://linkedin.com/in/rcah) [ResearchGate](https://researchgate.net/profile/Ryan-Hildebrandt)
+[Website](https://rcah.xyz) [Github](https://github.com/ryancahildebrandt) [Codeberg](https://codeberg.org/ryancahildebrandt) [LinkedIn](https://linkedin.com/in/rcah) [ResearchGate](https://researchgate.net/profile/Ryan-Hildebrandt) 
 
 ryancahildebrandt@gmail.com | Corning, New York
-	
----
+
+----
+
 
 ## Work Experience
-**Senior CCAI Engineer: ML/AI & NLP Specialist**
 
+**Senior CCAI Engineer: ML/AI & NLP Specialist**
 *Botcopy*, 2024-06 - Present
 
 - Engineer NLP analytics pipelines to extract insights from conversational data and improve on Google's native analytics
 - Test and evaluate generative models for use across conversational agents, aligning model characteristics with client requirements
-- Build, deploy, and optimize both sateful and generative Google CCAI agents in line with client needs
+- Build, deploy, and optimize both stateful and generative Google CCAI agents in line with client needs
 
 **Lead Engineer: ML/AI, NLP, & Analytics Specialist**
-
 *TekSystems for Google CCAI*, 2022-06 - 2024-06
 
 - Design NLP pipelines, analytics tools, and generative AI applications in response to client needs via GCP services
@@ -25,7 +24,6 @@ ryancahildebrandt@gmail.com | Corning, New York
 - Coordinate data processing team efforts for labeling datasets, developing classification guidelines, and technical process documentation
 
 **Data Designer -- Contract**
-
 *TekSystems for Google CCAI*, 2021-06 - 2022-06
 
 - Apply statistical and machine learning techniques to analyze client data
@@ -33,7 +31,6 @@ ryancahildebrandt@gmail.com | Corning, New York
 - Design, build, and maintain Google CCAI agents for client-specific use cases as well as NLP experiments
 
 **Japanese Natural Language Understanding Specialist -- Contract**
-
 *Cerence, Inc.*, 2020-11 - 2021-04
 
 - Extend NLU grammars used for speech recognition models with necessary labels and semantic tags
@@ -41,7 +38,6 @@ ryancahildebrandt@gmail.com | Corning, New York
 - Localize English NLU resources into Japanese for use by a variety of global automakers in intent classification and semantic labeling
 
 **Senior Operations Associate**
-
 *CoreLogic*, 2020-02 - 2020-08
 
 - Synthesize tax information from company, mortgage client, and public agency databases in order to resolve tax issues
@@ -49,7 +45,6 @@ ryancahildebrandt@gmail.com | Corning, New York
 - Coordinate with team members and leads to resolve assigned tasks efficiently, while continuing to learn new problem solving procedures daily
 
 **Statistics & Data Analysis Tutor**
-
 *Varsity Tutors*, 2019-09 - 2022-05
 
 - Online tutoring for high school, undergraduate, and graduate level students
@@ -57,101 +52,117 @@ ryancahildebrandt@gmail.com | Corning, New York
 - Additional tutoring in Japanese, social science research design, and academic writing
 
 **Statistics & Psychology Tutor**
-
 *Rochester Institute of Technology*, 2019-09 - 2020-01
 
 - In person tutoring for undergraduate and graduate level students
 - Specializing in statistics and psychological research using R and SPSS
 
 **Research & Teaching Assistant**
-
 *Rochester Institute of Technology*, 2018-01 - 2020-02
 
 - Oversee several psychology research studies from literature review through data collection, manipulation, analysis, and presentation
 - Utilize R, Python, SPSS, Tableau, and Qualtrics to complete the various stages of research
 - Apply knowledge of research best practices, data management, and statistics to ensure integrity and accuracy of all stages of research
 
-## Skills
-**Programming Languages, Tools, & Platforms**
 
-*R, Python, Ruby, SQL, Golang, NoSql Databases, Vector Databases, Julia, MATLAB, SAS, Microsoft VBA, Google AppsScript, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
+
+## Skills
+
+**Programming Languages, Tools, & Platforms**
+*R, Python, Ruby, SQL, Golang, NoSql Databases, Vector Databases, Julia, Git, Shell, Linux/Unix, Windows, Google Cloud Platform*
 
 **Data Analysis & Statistical Techniques**
-
 *Data manipulation, Data tidying, NLP (sentiment analysis, topic modeling, embedding), Feature engineering, Regresison (linear, logistic, polynomial), Mixed linear modeling, Structural equation modeling, (M)AN(C)OVA, Unsupervised & supervised classification, Principal component analysis & dimensionality reduction*
 
 **Data & Statistics Software**
-
 *SPSS, Tableau, Excel, Microsoft Access, Google Data Studio, KNIME, JASP, jamovi, RStudio, Spyder, MiniTab, Amazon MTurk, Qualtrics, MongoDB, Power BI, Looker, BigQuery*
 
 **Research Skills**
-
 *Experimental design, Survey design, Data collection, Literature review, Data analysis, Data visualization, Research presentation, Human subjects research, IRB compliance, Scientific writing, Academic writing*
 
+
+
 ## Education
+
 **Rochester Institute of Technology** - *Graduate - Experimental Psychology*, 2018-01 - 2019-12
 
 **Colgate University** - *Undergraduate - Japanese & Psychology*, 2013-08 - 2017-05
 
 **Kyoto Japanese Language School** - *Semester-long Language Study - Japanese*, 2014-08 - 2014-12
 
+
+
+
 ## Projects
-***[particles](https://github.com/ryancahildebrandt/particles)***: Contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が  
+
+[***particles***](https://github.com/ryancahildebrandt/particles): Contextual particle frequency in written Japanese, taking a swing at the age old question of は vs が\
 **Keywords:** *Report, Python, Japanese, NLP*
 
-***[thesis](https://github.com/ryancahildebrandt/thesis)***: Analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm  
+[***thesis***](https://github.com/ryancahildebrandt/thesis): Analyses from my graduate thesis work, Investigating Emotion-label and Emotion-laden Words in a Semantic Satiation Paradigm\
 **Keywords:** *Publication, R, Psycholinguistics, Study*
 
-***[aozora_corpus](https://github.com/ryancahildebrandt/aozora_corpus)***: A compilation of Japanese texts pulled from 青空文庫  
+[***aozora_corpus***](https://github.com/ryancahildebrandt/aozora_corpus): A compilation of Japanese texts pulled from 青空文庫\
 **Keywords:** *Corpus, R, Japanese, Literature*
 
-***[embs](https://github.com/ryancahildebrandt/embs)***: Tools streamlining sentence embedding or clustering techniques  
+[***embs***](https://github.com/ryancahildebrandt/embs): Tools streamlining sentence embedding or clustering techniques\
 **Keywords:** *Application, Report, Python, NLP*
 
-***[siftr](https://github.com/ryancahildebrandt/siftr)***: Shiny app using SIF sentence embeddings to separate out unwanted text data  
+[***siftr***](https://github.com/ryancahildebrandt/siftr): Shiny app using SIF sentence embeddings to separate out unwanted text data\
 **Keywords:** *Application, R, NLP, Sentence embedding*
 
-***[priors](https://github.com/ryancahildebrandt/priors)***: An experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge  
+[***priors***](https://github.com/ryancahildebrandt/priors): An experiment combining pretrained and bag of words embeddings to incorporate prior semantic knowledge\
 **Keywords:** *Report, Python, NLP, Sentence embedding*
 
-***[bowts](https://github.com/ryancahildebrandt/bowts)***: An experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation  
+[***bowts***](https://github.com/ryancahildebrandt/bowts): An experiment combining pretrained and bag of words embedding approaches for embedding vector space manipulation\
 **Keywords:** *Report, Python, NLP, Sentence embedding*
 
-***[iterate](https://github.com/ryancahildebrandt/iterate)***: Iterative clustering for sklearn clusterers  
+[***iterate***](https://github.com/ryancahildebrandt/iterate): Iterative clustering for sklearn clusterers\
 **Keywords:** *Tools, Python, Clustering, NLP*
 
-***[topics](https://github.com/ryancahildebrandt/topics)***: Experiments and utilities for text topic extraction using decision trees  
+[***topics***](https://github.com/ryancahildebrandt/topics): Experiments and utilities for text topic extraction using decision trees\
 **Keywords:** *Tools, Python, Clustering, NLP*
 
-***[nlt](https://github.com/ryancahildebrandt/nlt)***: Representing tabular data in natural language  
+[***nlt***](https://github.com/ryancahildebrandt/nlt): Representing tabular data in natural language\
 **Keywords:** *Tools, Go, RAG, NLP*
 
-***[gsgf](https://github.com/ryancahildebrandt/gsgf)***: Generating natural language expressions from JSGF  
+[***gsgf***](https://github.com/ryancahildebrandt/gsgf): Generating natural language expressions from JSGF\
 **Keywords:** *Tools, Go, Application, NLP*
 
-***[c2g](https://github.com/ryancahildebrandt/c2g)***: Condensing text corpora to context free grammars  
+[***c2g***](https://github.com/ryancahildebrandt/c2g): Condensing text corpora to context free grammars\
 **Keywords:** *Tools, Go, Application, NLP*
+
+
+
+
 
 ## Research Interests
-**Speech Processing (EN & JP)**  
+
+**Speech Processing (EN & JP)**\
 **Keywords:** *Speech intelligibility, Phonology, Emotional word characteristics*
 
-**Bilingualism**  
+**Bilingualism**\
 **Keywords:** *Language acquisition, L2 phoneme processing*
 
-**Natural Language Processing**  
+**Natural Language Processing**\
 **Keywords:** *Word & sentence embedding, Unsupervised learning, Document classification*
 
+
+
 ## Certifications
+
 [**Google Cloud Associate Cloud Engineer**](https://google.accredible.com/d3ef369f-9c2c-486a-bda6-943a74f70dff) 2023-04
 
+
+
+
 ## Coursework
-**Data Science & Statistics**  
+
+**Data Science & Statistics**
 **Courses:** *Natural Language Processing Specialization, Feature Selection for Machine Learning, Deep Learning A-Z: Hands-On Artificial Neural Networks, Causal Data Science with Directed Acyclic Graphs, Bayesian Statistics, Graph Theory*
 
-**Google Cloud Platform**  
+**Google Cloud Platform**
 **Courses:** *Creating Business Value with Data and Looker Specialization, Customer Experiences with Contact Center AI - Dialogflow ES & CX Specializations, From Data to Insights with Google Cloud Learning Path, Machine Learning on Google Cloud Learning Path*
 
-**Data Science Libraries & Languages**  
+**Data Science Libraries & Languages**
 **Courses:** *TensorFlow Developer Specialization, TensorFlow: Advanced Techniques Specialization, Complete Time Series Analysis Bootcamp in R, Master SQL for Data Science*
 

@@ -1,0 +1,11 @@
+{{- define "research" -}}
+{{ if (gt (len .Research) 0) }}
+## Research Experience
+{{ range .Research }}
+**{{ .Title }}** - *{{ .Institution }} - {{ .Type }}*
+{{ range.Highlights }}
+- {{ . }}
+{{- end }}
+{{ end }}
+{{ end }}
+{{- end -}}

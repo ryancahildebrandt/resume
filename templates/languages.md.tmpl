@@ -1,0 +1,12 @@
+{{- define "languages" -}}
+{{ if (gt (len .Languages) 0) }}
+## Languages
+{{ range .Languages }}
+**{{ .Language }}: {{ .Level }}**
+{{ range .Skills }}{{ if not (eq .Name "") }}
+*{{ .Name }}: {{ .Level }}*\
+{{- end -}}
+{{ end }}
+{{- end }}
+{{ end }}
+{{ end }}

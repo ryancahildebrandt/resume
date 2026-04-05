@@ -1,0 +1,9 @@
+{{- define "courses" -}}
+{{ if (gt (len .Courses) 0) }}
+## Coursework
+{{ range .Courses }}
+**{{ .Category }}**
+**Courses:** *{{ strings_join .Keywords ", "}}*
+{{ end }}
+{{ end }}
+{{- end -}}

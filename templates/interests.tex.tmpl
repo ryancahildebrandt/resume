@@ -1,0 +1,9 @@
+{{- define "interests" -}}
+{{ if (gt (len .Interests) 0) }}
+\section*{Research Interests}
+{{ range .Interests }}
+\noindent
+\textbf{{ "{" }}{{ tex_sanitize .Name }}{{ "}" }}:\textit{{ "{" }}{{ tex_sanitize (strings_join .Keywords ", ") }}{{ "}" }}
+{{ end }}
+{{ end }}
+{{- end -}}

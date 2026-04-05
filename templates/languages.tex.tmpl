@@ -1,0 +1,13 @@
+{{- define "languages" -}}
+{{ if (gt (len .Languages) 0) }}
+\section*{Languages}
+{{ range .Languages }}
+\noindent
+\textbf{{ "{" }}{{ .Language }}: {{ .Level }}{{ "}" }}
+{{ range .Skills }}{{ if not (eq .Name "") }}
+\textit{{ "{" }}{{ .Name }}: {{ .Level }}{{ "}" }}
+{{ end -}}
+{{ end }}
+{{- end }}
+{{ end }}
+{{ end }}

@@ -1,0 +1,9 @@
+{{- define "interests" -}}
+{{ if (gt (len .Interests) 0) }}
+## Research Interests
+{{ range .Interests }}
+**{{ .Name }}**\
+**Keywords:** *{{ strings_join .Keywords ", "}}*
+{{ end -}}
+{{ end }}
+{{- end -}}

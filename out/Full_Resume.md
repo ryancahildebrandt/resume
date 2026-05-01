@@ -10,7 +10,7 @@ ryancahildebrandt@gmail.com | Corning, New York
 ## Work Experience
 
 **Senior CCAI Engineer: ML/AI & NLP Specialist**
-*Botcopy*, 2024-06 - Present
+*Botcopy*, 2024-06 - 2024-04
 
 - Engineer NLP analytics pipelines to extract insights from conversational data and improve on Google's native analytics
 - Test and evaluate generative models for use across conversational agents, aligning model characteristics with client requirements

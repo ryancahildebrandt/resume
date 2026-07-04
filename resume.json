@@ -50,6 +50,22 @@
   },
   "work": [
     {
+      "company": "KForce for Public Consulting Group",
+      "website": "",
+      "position": "Natural Language Data Scientist & ML Engineer",
+      "startDate": "2026-06",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Create data ontologies and knowledge graphs based on domain-specific frameworks and client needs.",
+		"Engineer recommendation systems for academic skill proficiency using standardized assessment scores and teacher-written evaluations.",
+		"Train custom classifier and entity extraction models to annotate natural language data."
+     ],
+      "tags": [
+        "full",
+        "data"
+      ]
+    },    {
       "company": "Botcopy",
       "website": "",
       "position": "Senior CCAI Engineer: ML/AI & NLP Specialist",

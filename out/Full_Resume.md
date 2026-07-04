@@ -9,6 +9,13 @@ ryancahildebrandt@gmail.com | Corning, New York
 
 ## Work Experience
 
+**Natural Language Data Scientist & ML Engineer**
+*KForce for Public Consulting Group*, 2026-06 - Present
+
+- Create data ontologies and knowledge graphs based on domain-specific frameworks and client needs.
+- Engineer recommendation systems for academic skill proficiency using standardized assessment scores and teacher-written evaluations.
+- Train custom classifier and entity extraction models to annotate natural language data.
+
 **Senior CCAI Engineer: ML/AI & NLP Specialist**
 *Botcopy*, 2024-06 - 2024-04
 
